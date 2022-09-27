@@ -26,4 +26,7 @@ DangoPlayer is a simple lightweight and fast video player and IPTV client for An
 ## Requires:
 Android 5.0 or later
 
-<a href='https://play.google.com/store/apps/details?id=com.aleapps.videotime&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+## Download:
+
+<a href='https://play.google.com/store/apps/details?id=com.aleapps.videotime&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://github.com/brunochanrio/DangoPlayer/releases'><img alt='Get it on GitHub' height='80' src='https://raw.githubusercontent.com/deckerst/common/main/assets/get-it-on-github.png'/></a>
