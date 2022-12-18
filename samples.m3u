@@ -1,20 +1,8 @@
 #EXTM3U
 #EXTINF:-1,DASH Shaka Angel One - clear
 https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd
-#EXTINF:-1,DASH Shaka Angel One - Widevine DRM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cwip-shaka-proxy.appspot.com/no_auth
-https://storage.googleapis.com/shaka-demo-assets/angel-one-widevine/dash.mpd
 #EXTINF:-1,DASH Edgeware Gorilla
 https://streambuilder-sp-cdn.edgeware.tv/__cl/cg:ingest/__c/gorilla/__op/default/__f/manifest.mpd
-#EXTINF:-1,DASH Axinom Widevine DRM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/
-https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
-#EXTINF:-1,DASH Axinom ClearKey DRM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm-clearkey-testvectors.axtest.net/AcquireLicense
-https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd
 #EXTINF:-1,DASH Axinom Clear
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
 #EXTINF:-1,DASH-IF Live
