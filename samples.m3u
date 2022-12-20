@@ -25,7 +25,7 @@ http://amssamples.streaming.mediaservices.windows.net/7ceb010f-d9a3-467a-915e-57
 https://b028.wpc.azureedge.net/80B028/Samples/a38e6323-95e9-4f1f-9b38-75eba91704e4/5f2ce531-d508-49fb-8152-647eba422aec.ism/Manifest
 #EXTINF:-1,Progressive MP4
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
-#EXTINF:-1, Progressive MP4 Sintel
+#EXTINF:-1,Progressive MP4 Sintel
 http://bitdash-a.akamaihd.net/content/sintel/Sintel.mp4
-#EXTINF:-1, Progressive MP4 Popeye Public Domain Cartoon
+#EXTINF:-1,Progressive MP4 Popeye Public Domain Cartoon
 https://ia800204.us.archive.org/34/items/popeye_patriotic_popeye/popeye_patriotic_popeye_512kb.mp4
