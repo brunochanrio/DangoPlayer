@@ -23,6 +23,8 @@ https://amssamples.streaming.mediaservices.windows.net/bc57e088-27ec-44e0-ac20-a
 http://amssamples.streaming.mediaservices.windows.net/7ceb010f-d9a3-467a-915e-5728acced7e3/ElephantsDreamMultiAudio.ism/manifest
 #EXTINF:-1,MSS Live
 https://b028.wpc.azureedge.net/80B028/Samples/a38e6323-95e9-4f1f-9b38-75eba91704e4/5f2ce531-d508-49fb-8152-647eba422aec.ism/Manifest
+#EXTINF:-1,RTSP Big Buck Bunny Wowza Stream Test
+rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mp4
 #EXTINF:-1,Progressive MP4
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
 #EXTINF:-1,Progressive MP4 Sintel
