@@ -1,7 +1,7 @@
 # DangoPlayer
 A simple lightweight and fast video player and IPTV client for Android
 
-
+<img alt='DangoPlayer TV Logo' width='700' src='https://raw.githubusercontent.com/brunochanrio/DangoPlayer/main/DangoPlayer_PlayStore_Banner.png'/>
 
 DangoPlayer is a simple lightweight and fast video player and IPTV client for Android, with many features
 
