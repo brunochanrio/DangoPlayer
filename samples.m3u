@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,DASH Axinom Clear
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
+#EXTINF:-1,DASH Axinom Widevine DRM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/
+https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
 #EXTINF:-1,DASH-IF Live
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 #EXTINF:-1,HLS Apple BipBop H.264
