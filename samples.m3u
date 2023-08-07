@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,DASH Shaka Angel One - Widevine DRM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cwip-shaka-proxy.appspot.com/no_auth
+https://storage.googleapis.com/shaka-demo-assets/angel-one-widevine/dash.mpd
 #EXTINF:-1,DASH Axinom Clear
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
 #EXTINF:-1,DASH Axinom Widevine DRM
