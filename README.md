@@ -3,7 +3,7 @@ A fast video player and IPTV client for Android and TV
 
 <img alt='DangoPlayer Uni Logo' width='700' src='https://raw.githubusercontent.com/brunochanrio/DangoPlayer/main/DangoPlayerUni_Logo.png'/>
 
-DangoPlayer Uni is a unified, unique and fast video player and IPTV client for Android, Android TV, Google TV and Fire TV, with many features
+DangoPlayer Uni is a unified, unique and fast video player and IPTV client for Android, Android TV and Google TV, with many features
 
 ## Features:
 - Based on Google's Media3 library
@@ -12,8 +12,8 @@ DangoPlayer Uni is a unified, unique and fast video player and IPTV client for A
 - Support for many video formats and streaming protocols
 - DRM support for media items in IPTV lists
 - Support for Xtream Codes IPTV Services
-- Support for sending IPTV lists to a DangoPlayer Uni client on a television device running Android TV, Google TV or Fire TV 
-- Integration with the Google's Live Channels app, Mochi Live TV and the Fire TV guide
+- Support for sending IPTV lists to a DangoPlayer Uni client on a television device running Android TV or Google TV
+- Integration with the Google's Live Channels app and Mochi Live TV
 - More than 1000 free online radios thanks to SHOUTcast Radio
 
 \* Feature not available on Android Go
@@ -29,7 +29,7 @@ DangoPlayer Uni is a unified, unique and fast video player and IPTV client for A
 - RTSP
 
 ## Requires:
-Android 5.0 or later
+Android 7.0 or later
 
 ## Download:
 
