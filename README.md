@@ -35,6 +35,6 @@ Android 7.0 or later
 
 <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
-Looking for DangoPlayer Uni for Amazon Fire OS anf Fire TV on the Amazon Appstore? DangoPlayer Uni is no longer updated on the Amazon Appstore because of the new Amazon policies against piracy, because this, 1.4dwaekki is the last version of DangoPlayer Uni for Amazon Fire OS and Fire TV on the Amazon Appstore, however, you can still install DangoPlayer Uni on your Amazon Fire OS or Fire TV device downloading the APK from the releases section on this repository
+Looking for DangoPlayer Uni for Amazon Fire OS and Fire TV on the Amazon Appstore? DangoPlayer Uni is no longer updated on the Amazon Appstore because of the new Amazon policies against piracy, because this, 1.4dwaekki is the last version of DangoPlayer Uni for Amazon Fire OS and Fire TV on the Amazon Appstore, however, you can still install DangoPlayer Uni on your Amazon Fire OS or Fire TV device downloading the APK from the releases section on this repository
 
 Looking for the old versions of DangoPlayer and DangoPlayer TV? We deprecated the old versions of DangoPlayer and DangoPlayer TV and both will not receive updates anymore
