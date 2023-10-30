@@ -5,7 +5,7 @@ plugins:
 title: DangoPlayer Uni
 logo: DangoPlayerUni_Logo.png
 
-fixedNav: 'true'
+fixedNav: 'false'
 themeColor: purple
 sass:
   style: compressed
