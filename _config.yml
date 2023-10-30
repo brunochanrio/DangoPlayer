@@ -5,12 +5,15 @@ plugins:
 title: DangoPlayer Uni
 logo: DangoPlayerUni_Logo.png
 
+
+
+baseurl: "/DangoPlayer"
 fixedNav: 'false'
 accentColor: purple
 themeColor: purple
 sass:
   style: compressed
 
-  permalink: /:year/:title/
+  permalink: /DangoPlayer/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
