@@ -1,4 +1,4 @@
-remote_theme: jameshamann/jekyll-material-theme@v0.6.2
+remote_theme: jameshamann/jekyll-material-theme
 plugins:
 - jekyll-remote-theme
 
