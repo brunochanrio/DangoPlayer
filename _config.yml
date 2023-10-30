@@ -8,9 +8,10 @@ logo: DangoPlayerUni_Logo.png
 
 
 baseurl: "/DangoPlayer"
-fixedNav: 'false'
-accentColor: purple
-themeColor: purple
+fixedNav: 'true'
+color: deep-purple
+accentColor: pink
+themeColor: deep-purple
 sass:
   style: compressed
 
