@@ -1,4 +1,4 @@
-remote_theme: alexcarpenter/material-jekyll-theme@1.0.0
+remote_theme: vsoch/mkdocs-jekyll@v0.0.12
 plugins:
 - jekyll-remote-theme
 
@@ -6,6 +6,11 @@ title: DangoPlayer Uni
 logo: DangoPlayerUni_Logo.png
 
 fixedNav: 'false'
+accentColor: purple
 themeColor: purple
 sass:
   style: compressed
+
+  permalink: /:year/:title/
+markdown: kramdown
+exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
