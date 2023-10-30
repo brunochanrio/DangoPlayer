@@ -4,6 +4,8 @@ plugins:
 
 title: DangoPlayer Uni
 logo: DangoPlayerUni_Logo.png
+logo_height: 120
+logo_width: 40
 
 
 
