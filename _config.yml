@@ -10,15 +10,12 @@ logo_width: 40
 
 
 baseurl: "/DangoPlayer"
-fixedNav: 'true'
 color: "#2B0052"
 accentColor: pink
-sass:
-  style: compressed
+themeColor: deep-purple
+fixedNav: 'true' # true or false
 
-  fixedNav: 'true' # true or false
-
-  repo: "https://github.com/brunochanrio/DangoPlayer"
+repo: "https://github.com/brunochanrio/DangoPlayer"
 github_user: "brunochanrio"
 github_repo: "DangoPlayer"
 
