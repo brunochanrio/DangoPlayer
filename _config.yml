@@ -9,7 +9,7 @@ logo: DangoPlayerUni_Logo.png
 
 baseurl: "/DangoPlayer"
 fixedNav: 'true'
-color: deep-purple
+color: "#2B0052"
 accentColor: pink
 themeColor: deep-purple
 sass:
