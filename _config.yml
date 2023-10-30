@@ -13,7 +13,6 @@ baseurl: "/DangoPlayer"
 fixedNav: 'true'
 color: "#2B0052"
 accentColor: pink
-themeColor: deep-purple
 sass:
   style: compressed
 
