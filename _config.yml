@@ -14,6 +14,38 @@ themeColor: purple
 sass:
   style: compressed
 
-  permalink: /DangoPlayer/
+  fixedNav: 'true' # true or false
+
+  repo: "https://github.com/brunochanrio/DangoPlayer"
+github_user: "brunochanrio"
+github_repo: "DangoPlayer"
+
+permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
+
+# Defaults
+defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
