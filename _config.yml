@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: jameshamann/jekyll-material-theme@v0.6.2
 plugins:
 - jekyll-remote-theme
 
