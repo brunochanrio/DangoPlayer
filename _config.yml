@@ -3,8 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: DangoPlayer Uni
-logo: DangoPlayerUni_Logo.png
-logo_height: 120
+logo: DangoIcon.png
 logo_width: 40
 
 
@@ -13,7 +12,7 @@ baseurl: "/DangoPlayer"
 color: "#2B0052"
 accentColor: pink
 themeColor: deep-purple
-fixedNav: 'true' # true or false
+fixedNav: 'false' # true or false
 
 repo: "https://github.com/brunochanrio/DangoPlayer"
 github_user: "brunochanrio"
