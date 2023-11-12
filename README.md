@@ -20,6 +20,7 @@ DangoPlayer Uni is a unified, unique and fast video player and IPTV client for A
 
 ## IPTV list formats supported:
 - M3U / M3U8
+- PLS
 - WiiMC-SS list format
 
 ## Streaming protocols supported:
