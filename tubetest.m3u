@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,HLS Stream
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1, YouTube Stream
+https://www.youtube.com/live/Hy4UCfsE6Yk?si=h7QcRX3_hrKMLOF1
