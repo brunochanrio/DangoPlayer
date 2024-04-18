@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: DangoPlayer
-logo: DangoPlayerUni_Logo.png
+logo: DangoIcon.png
 logo_width: 40
 
 
