@@ -2,8 +2,8 @@ remote_theme: vsoch/mkdocs-jekyll@v0.0.12
 plugins:
 - jekyll-remote-theme
 
-title: DangoPlayer Uni
-logo: DangoIcon.png
+title: DangoPlayer
+logo: DangoPlayerUni_Logo.png
 logo_width: 40
 
 
