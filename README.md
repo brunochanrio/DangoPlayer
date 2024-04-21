@@ -14,7 +14,6 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 - Support for Xtream Codes IPTV Services
 - Support for sending IPTV lists to a DangoPlayer client on a television device running Android TV or Google TV
 - Integration with the Google's Live Channels app and Mochi Live TV
-- More than 1000 free online radios thanks to SHOUTcast Radio
 
 \* Feature not available on Android Go
 
