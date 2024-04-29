@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: DangoPlayer
-logo: DangoIcon.png
+logo: dango.svg
 
 
 
