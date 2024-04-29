@@ -1,0 +1,13 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" class="iconify iconify--emojione" role="img" aria-hidden="true">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#ffffff" d="m50.9,48.6c-0.6,-0.6 -1.7,-0.6 -2.3,0c-0.6,0.6 -0.6,1.7 0,2.3l10.6,10.6c0.6,0.6 1.7,0.6 2.3,0c0.6,-0.6 0.6,-1.7 0,-2.3l-10.6,-10.6"/>
+  <ellipse stroke="null" transform="rotate(-45.001 47 47)" id="svg_2" fill="#ffffff" ry="12" rx="13.6" cy="47" cx="47"/>
+  <path id="svg_3" fill="#ffffff" d="m38.3,35.9c-0.6,-0.6 -1.7,-0.6 -2.3,0c-0.6,0.6 -0.6,1.7 0,2.3l3.7,3.7c0.6,0.6 1.7,0.6 2.3,0c0.6,-0.6 0.6,-1.7 0,-2.3l-3.7,-3.7"/>
+  <ellipse transform="rotate(-45.001 30.9 30.9)" id="svg_4" fill="#ffffff" ry="12" rx="13.6" cy="30.9" cx="30.9"/>
+  <path id="svg_5" fill="#ffffff" d="m22.2,19.9c-0.6,-0.6 -1.7,-0.6 -2.3,0c-0.6,0.6 -0.6,1.7 0,2.3l3.7,3.7c0.6,0.6 1.7,0.6 2.3,0c0.6,-0.6 0.6,-1.7 0,-2.3l-3.7,-3.7"/>
+  <ellipse transform="rotate(-45.001 14.8 14.8)" id="svg_6" fill="#ffffff" ry="12" rx="13.6" cy="14.8" cx="14.8"/>
+  <path id="svg_7" fill="#ffffff" d="m6.1,3.8c-0.6,-0.6 -1.7,-0.6 -2.3,0c-0.6,0.6 -0.6,1.7 0,2.3l3.7,3.7c0.6,0.6 1.7,0.6 2.3,0c0.6,-0.6 0.6,-1.7 0,-2.3l-3.7,-3.7"/>
+ </g>
+</svg>
