@@ -4,14 +4,13 @@ plugins:
 
 title: DangoPlayer
 logo: DangoIcon.png
-logo_width: 40
 
 
 
 baseurl: "/DangoPlayer"
-color: "#2B0052"
-accentColor: pink
-themeColor: deep-purple
+color: "#1DE9B6"
+accentColor: teal
+themeColor: pink
 fixedNav: 'false' # true or false
 
 repo: "https://github.com/brunochanrio/DangoPlayer"
