@@ -12,5 +12,4 @@ Android 7.0 or later
 ## Download
 <a href="https://github.com/brunochanrio/DangoPlayer/releases/download/2.0.1hangyodon_rev1/DangoPlayer_2.0.1hangyodon_rev1.apk"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
 
-{% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="If you are using a Android device with Google services, We recommend you to download DangoPlayer from the Google Play Store, simply search "DangoPlayer" on the Google Play Store and it will appear as the first result
-" %}
+{% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="You are using a Android device with Google services? We recommend you to download DangoPlayer from the Google Play Store, simply search "DangoPlayer" on the Google Play Store and it will appear as the first result" %}
