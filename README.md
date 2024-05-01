@@ -5,7 +5,7 @@ A fast video player and IPTV client for Android and TV
 
 DangoPlayer is a unified, unique and fast video player and IPTV client for Android, Android TV and Google TV, with many features
 
-## Features:
+# Features:
 - Based on Google's Media3 library
 - Support for picture in picture mode* (Android 8.0+)
 - Easy media item switching in player from local videos and IPTV lists
@@ -17,30 +17,33 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 
 \* Feature not available on Android Go
 
-## IPTV list formats supported:
+# IPTV list formats supported:
 - M3U / M3U8
 - PLS
 - WiiMC-SS list format
 
-## Streaming protocols supported:
+# Streaming protocols supported:
 - HLS
 - DASH
 - SmoothStreaming
 - RTSP
 
-## Requires:
+# Requires:
 Android 7.0 or later
 
-## Download:
+# Download:
 
 <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
 
-## Screenshots
-### Smartphone
+# Screenshots
+## Smartphone
 <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS1.png'/> <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS3.png'/>
 
-### Tablet
+## Tablet
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS3.png'/>
 
-### Television
+## Television
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS3.png'/>
+
+
+
