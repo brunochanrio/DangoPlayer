@@ -9,8 +9,8 @@ logo: assets/DangoPlayerUni_Logo.png
 
 baseurl: "/DangoPlayer"
 color: "#1DE9B6"
-accentColor: teal
-themeColor: pink
+accentColor: pink
+themeColor: purple
 fixedNav: 'false' # true or false
 
 repo: "https://github.com/brunochanrio/DangoPlayer"
