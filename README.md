@@ -37,19 +37,16 @@ Android 8.0 or later
 
 # Screenshots
 ## Smartphone
-### Android 12 and later
 <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS1.png'/> <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS3.png'/>
-### Android 11 and earlier
-<img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileOldSS1.png'/> <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileOldSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileOldSS3.png'/>
 
 ## Tablet
-### Android 12 and later
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS3.png'/>
-### Android 11 and earlier
-<img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletOldSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletOldSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletOldSS3.png'/>
 
 ## Television
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS3.png'/>
+
+
+
 
 
 
