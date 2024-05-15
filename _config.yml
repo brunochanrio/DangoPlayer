@@ -1,4 +1,4 @@
-remote_theme: brunochanrio/mkdocs-jekyll@1.2
+remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
 plugins:
 - jekyll-remote-theme
 
