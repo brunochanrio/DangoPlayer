@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: DangoPlayer
+author: Bruno-chanrio
 logo: assets/DangoPlayerUni_Logo.png
 
 
