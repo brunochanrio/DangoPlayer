@@ -1,7 +1,7 @@
 # Download DangoPlayer APK
 Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei, Amazon Fire OS, Windows Subsystem for Android, LineageOS, etc.
 
-**Latest Version:** 2.2usahana_patch1
+**Latest Version:** 3.0sakura
 
 ## What's new
 - Removed support for Android 8.0 and 8.1
