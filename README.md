@@ -7,11 +7,10 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 
 # Features:
 - Based on Google's Media3 library
-- Support for picture in picture mode* (Android 8.0+)
+- Support for picture in picture mode*
 - Easy media item switching in player from local videos and IPTV lists
 - Support for many video formats and streaming protocols
 - DRM support for media items in IPTV lists
-- Support for Xtream Codes IPTV Services
 - Support for sending IPTV lists to a DangoPlayer client on a television device running Android TV or Google TV
 - Integration with the Google's Live Channels app and Mochi Live TV
 
