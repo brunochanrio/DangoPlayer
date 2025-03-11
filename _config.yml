@@ -18,9 +18,6 @@ repo: "https://github.com/brunochanrio/DangoPlayer"
 github_user: "brunochanrio"
 github_repo: "DangoPlayer"
 
-instagram: brunochanrio
-threads: "@brunochanrio"
-
 permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, vendor]
