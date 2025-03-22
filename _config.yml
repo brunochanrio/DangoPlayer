@@ -13,6 +13,7 @@ color: "#1DE9B6"
 accentColor: teal
 themeColor: purple
 fixedNav: 'false' # true or false
+developedby: true
 
 repo: "https://github.com/brunochanrio/DangoPlayer"
 github_user: "brunochanrio"
