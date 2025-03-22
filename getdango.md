@@ -18,8 +18,9 @@ Android 9 or later
 
 {% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="You are using a Android device with Google services? We recommend you to download DangoPlayer from the Google Play Store, simply search DangoPlayer on the Google Play Store and it will appear as the first result" %}
 
-
-</br>
-</br>
+###   
+###   
+###   
 
 <a href="https://brunochanrio.github.io"><img alt='Developed by Bruno-chanrio' width='300' src='https://brunochanrio.github.io/Bruno-chanrio_DevelopedByLogo_Colorful.png'/></a>
+
