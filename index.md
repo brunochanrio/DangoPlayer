@@ -22,9 +22,9 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 - WiiMC-SS list format
 
 # Streaming protocols supported:
-- HLS
-- DASH
-- SmoothStreaming
+- Apple HTTP Live Streaming (HLS)
+- MPEG-DASH
+- Microsoft Smooth Streaming
 - RTSP
 
 # Requires:
@@ -33,13 +33,3 @@ Android 9 or later
 # Download:
 
 <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
-
-# Screenshots
-## Smartphone
-<img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS1.png'/> <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS3.png'/>
-
-## Tablet
-<img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS3.png'/>
-
-## Television
-<img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS3.png'/>
