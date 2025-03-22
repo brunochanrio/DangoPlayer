@@ -5,6 +5,8 @@ A fast video player and IPTV client for Android and TV
 
 DangoPlayer is a unified, unique and fast video player and IPTV client for Android, Android TV and Google TV, with many features
 
+<a href="https://brunochanrio.github.io/DangoPlayer/screenshots">View screenshots -></a>
+
 # Features:
 - Based on Google's Media3 library
 - Support for picture in picture mode*
