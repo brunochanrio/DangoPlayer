@@ -44,7 +44,8 @@ Android 9 or later
 ## Television
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS3.png'/>
 
-</br>
-</br>
+###   
+###   
+###   
 
 <a href="https://brunochanrio.github.io"><img alt='Developed by Bruno-chanrio' width='300' src='https://brunochanrio.github.io/Bruno-chanrio_DevelopedByLogo_Colorful.png'/></a>
