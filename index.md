@@ -8,6 +8,7 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 <a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt='Download DangoPlayer' width='350' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Download.png'/></a>
 <a href="https://brunochanrio.github.io/DangoPlayer/screenshots"><img alt='View Screenshots' width='350' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Screenshots.png'/></a>
 <a href="https://brunochanrio.github.io/DangoPlayer/futureplans"><img alt='Future plans for DangoPlayer' width='350' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_FuturePlans.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/news"><img alt='News Feed' width='350' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_NewsFeed.png'/></a>
 
 ## Features:
 - Based on Google's Media3 library
