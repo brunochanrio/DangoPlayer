@@ -1,4 +1,4 @@
-remote_theme: brunochanrio/material-jekyll-chanrio@2.1
+remote_theme: brunochanrio/material-jekyll-chanrio@2025.03.23
 plugins:
 - jekyll-remote-theme
 
