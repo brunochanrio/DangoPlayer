@@ -5,7 +5,9 @@ A fast video player and IPTV client for Android and TV
 
 DangoPlayer is a unified, unique and fast video player and IPTV client for Android, Android TV and Google TV, with many features
 
-<a href="https://brunochanrio.github.io/DangoPlayer/screenshots">View screenshots -></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt='Download DangoPlayer' width='450' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Download.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/screenshots"><img alt='View Screenshots' width='450' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Screenshots.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/futureplans"><img alt='Future plans for DangoPlayer' width='450' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_FuturePlans.png'/></a>
 
 ## Features:
 - Based on Google's Media3 library
@@ -31,7 +33,3 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 
 ## Requires:
 Android 9 or later
-
-## Download:
-
-<a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
