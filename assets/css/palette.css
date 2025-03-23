@@ -32,16 +32,16 @@ button[data-md-color-primary=red] {
     color: inherit;
 }
 button[data-md-color-primary=pink] {
-    background-color: #b74a75;
+    background-color: #85325e;
 }
 [data-md-color-primary=pink] .md-typeset a {
-    color: #b74a75;
+    color: #85325e;
 }
 [data-md-color-primary=pink] .md-header, [data-md-color-primary=pink] .md-hero {
-    background-color: #b74a75;
+    background-color: #85325e;
 }
 [data-md-color-primary=pink] .md-nav__link--active, [data-md-color-primary=pink] .md-nav__link:active {
-    color: #b74a75;
+    color: #85325e;
 }
 [data-md-color-primary=pink] .md-nav__item--nested>.md-nav__link {
     color: inherit;
@@ -763,7 +763,7 @@ button[data-md-color-accent=deep-orange] {
     background-color: {{ site.color }};
 }
 html [data-md-color-primary=pink] .md-nav--primary .md-nav__title--site {
-    background-color: #b74a75;
+    background-color: #85325e;
 }
 html [data-md-color-primary=purple] .md-nav--primary .md-nav__title--site {
     background-color: #ab47bc;
@@ -829,7 +829,7 @@ html [data-md-color-primary=white] .md-nav--primary .md-nav__title--site {
     background-color: {{ site.color }};
 }
 [data-md-color-primary=pink] .md-tabs {
-    background-color: #b74a75;
+    background-color: #85325e;
 }
 [data-md-color-primary=purple] .md-tabs {
     background-color: #ab47bc;
