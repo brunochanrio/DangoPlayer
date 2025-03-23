@@ -3,7 +3,7 @@ title: News
 permalink: /news/
 ---
 
-# News
+# News Feed
 
 <p>Subscribe with <a href="{{ site.baseurl }}/news/rss.xml">RSS</a> to keep up with the latest news.
 
