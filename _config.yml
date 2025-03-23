@@ -12,7 +12,7 @@ logo: assets/DangoPlayerUni_Logo.png
 baseurl: "/DangoPlayer"
 color: "#B74A75"
 accentColor: teal
-themeColor: red
+themeColor: pink
 fixedNav: 'false' # true or false
 developedby: true
 
