@@ -1,7 +1,13 @@
 # Future plans for DangoPlayer
 Here are the future plans for DangoPlayer, which can include new features and changes
 
-## Future planned features and changes for DangoPlayer 
+## Planned features and changes for the next version of DangoPlayer (6.0usagi)
 - Support for adding local playlists from the local storage on mobile devices
 - Ability to modify playlists
 - Support for Origin and Host headers in the player
+- Branding overhaul, by using a completely new color set
+- Full UI Overhaul, by removing support for Dynamic Colors on Android 12 and later in favor of DangoPlayer's new branding colors, and by applying different colors for the sections
+- Optimization of the code by removing unused and obsolete features and resources from the code
+- Removal of the manual screen rotation button and their functionality from the player on mobile devices, to make the app fully Android 16 compliant, however, screen rotation would continue to work by enabling Auto-Rotate in the system from Quick Settings
+- Unification of the internal DangoPlayer libraries (Android TV Input Framework integration, List processing, List parsing, etc.) under the new UsagiCore branding
+- Complete removal of the code that allowed playlist migration from the Obsolete DangoPlayer and DangoPlayer TV apps (formerly known as **VideoTime** and **TubiLeap**) to the modern DangoPlayer app (formerly known as **DangoPlayer Uni** during the transition from the obsolete DangoPlayer and DangoPlayer TV apps to the modern DangoPlayer app)
