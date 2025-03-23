@@ -1,5 +1,5 @@
-# Download DangoPlayer APK
-Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei, Amazon Fire OS, Windows Subsystem for Android, LineageOS, etc.
+# Download DangoPlayer
+Here you can download the latest version of DangoPlayer from the Google Play Store for any Android device with Google services, and from APK for any Android device without Google services, like Huawei, Amazon Fire OS, Windows Subsystem for Android, LineageOS, etc.
 
 **Latest Version:** 5.0freya
 
@@ -14,6 +14,6 @@ Download the latest APK of DangoPlayer for any Android device with Google servic
 Android 9 or later
 
 ## Download
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
 
-{% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="You are using a Android device with Google services? We recommend you to download DangoPlayer from the Google Play Store, simply search DangoPlayer on the Google Play Store and it will appear as the first result" %}   
+{% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="If you are using a Android device with Google services we recommend you to download DangoPlayer from the Google Play Store to receive automatic updates and more. Simply click on the Get it from Google Play button to download DangoPlayer from the Google Play Store" %}   
