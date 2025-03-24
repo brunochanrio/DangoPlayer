@@ -1,6 +1,6 @@
 ---
 title:  "Removal of the migration code that allowed migration from the obsolete DangoPlayer (formerly VideoTime and TubiLeap) to modern DangoPlayer (formerly DangoPlayer Uni)"
-date:   2025-03-24 15:34:00
+date:   2025-03-24 20:47:00
 categories: update
 badges:
  - type: warning
@@ -11,6 +11,35 @@ badges:
 We are announcing that we decided to remove the code that allowed migration of IPTV Lists from the obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) on Android and the obsolete DangoPlayer TV app on Android TV and Google TV to the modern DangoPlayer app (formerly known as DangoPlayer Uni), this is doing as a part of a strategy to remove unused and obsolete code to modernize the app
 
 <!--more-->
+
+## What is the obsolete DangoPlayer and DangoPlayer TV apps, VideoTime and TubiLeap?
+<img alt='DangoPlayer Evolution Lineup' width='700' src='https://brunochanrio.github.io/DangoPlayer/news/img/DangoPlayerEvolution.png'/>
+
+Here is the story of the origin of the obsolete DangoPlayer and DangoPlayer TV apps
+- The obsolete DangoPlayer app originally was released in 2021 with the name of VideoTime, initially, the app had ads and supported local video playback and remote lists using proprietary formats called **VideoTime Media List (VTML)** for media lists that used the **.vml1** file extension and **VideoTime List Group (VTLG)** for list groups which used the **.vlg1** file extension, both formats was based on XML
+- Later, with the version **1.0.0joegardner rev2** of VideoTime, support for M3U/M3U8 IPTV lists was added, and the version **1.1.0lilo** added support for ASX and XSPF playlists
+- The version **2.5.0reuben** of VideoTime removed ads from the app, and the color scheme has changed from orange to red
+- The version **2.6.0leroy** of VideoTime introduced Material Design 3 to the app for the first time
+- The version **3.0.0mirabel** of VideoTime introduced the Easy Media Item Switch in the player, feature that remains today on the modern DangoPlayer app, and introduced a pink background color to the icon
+- Later, VideoTime has been rebranded to TubiLeap with the version **5.0.0luisa**
+- Later, the TubiLeap app was rebranded to DangoPlayer and received a new UI, and much later, the app has came to Android TV as a separate app called DangoPlayer TV
+- Initially, DangoPlayer TV used a custom UI and required adding the IPTV Lists from the phone
+- Later, DangoPlayer TV has migrated to the standard Android TV Leanback UI, and much later received new features such as adding IPTV Lists directly from the TV, and integration with the TV Input Framework and the Google Live Channels app
+
+Here is the evolution of the icons of the obsolete DangoPlayer and DangoPlayer TV apps:
+<table>
+  <thead>
+    <tr><th align="left">Icon</th><th align="left">Corresponding app</th></tr>
+  </thead>
+  <tbody>
+   <tr><td nowrap><img alt='First VideoTime Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/VideoTime1Icon.png'/></td><td>The first VideoTime app icon, used in all versions with ads from  the version <b>1.0.0joegardner</b> up to <b>2.2.0sparky</b></td></tr>
+    <tr><td nowrap><img alt='Second VideoTime Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/VideoTime2Icon.png'/></td><td>The second VideoTime app icon, used in versions <b>2.5.0reuben</b> and <b>2.6.0leroy</b></td></tr>
+      <tr><td nowrap><img alt='Third VideoTime Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/VideoTime3Icon.png'/></td><td>The third VideoTime app Icon, used only in the version <b>3.0.0mirabel</b> and its revisions</td></tr>
+    <tr><td nowrap><img alt='TubiLeap Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/TubiLeapIcon.png'/></td><td>The TubiLeap app icon, Used only in the version <b>5.0.0luisa</b></td></tr>
+    <tr><td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/ObsoleteDangoIcon.png'/></td><td>The obsolete DangoPlayer app icon</td></tr>
+    
+  </tbody>
+</table>
 
 ## What happened to the obsolete DangoPlayer and DangoPlayer TV apps?
 In 2023, we figured that developing DangoPlayer for mobile devices and TVs in separated codebases (one for mobile devices and other for TVs) was difficult, also because app updates doesn't came at the same time for both versions
