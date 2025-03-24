@@ -1,6 +1,6 @@
 ---
 title:  "Removal of the migration code that allowed migration from the obsolete DangoPlayer (formerly VideoTime and TubiLeap) to modern DangoPlayer (formerly DangoPlayer Uni)"
-date:   2025-03-24 11:37:00
+date:   2025-03-24 13:27:00
 categories: update
 badges:
  - type: warning
@@ -33,8 +33,9 @@ To facilitate users of the obsolete DangoPlayer and DangoPlayer TV apps to migra
 
 Here is a video demonstration on how the migration codes of both the obsolete DangoPlayer app and the modern DangoPlayer app works:
 
-<video width="400" controls>
+<video controls width="350">
   <source src="https://brunochanrio.github.io/DangoPlayer/news/vid/VideoTimeToDangoMigrationDemo.mp4" type="video/mp4" />
+  <img alt='Unsupported browser' width='450' src='https://brunochanrio.github.io/assets/HTML5VideoUnsupported.png'/>
 </video>
 
 In the video demonstration we used the last version of the obsolete DangoPlayer app (**2023.7.12poochy_rev2**) and the current version of the modern DangoPlayer app (**5.0freya**), which is the last version of the modern DangoPlayer to include the migration code, as the next version of the modern DangoPlayer (**6.0usagi**) will remove the migration code completely
@@ -58,9 +59,9 @@ Here are a way to distinguish the obsolete DangoPlayer and DangoPlayer TV apps f
     <tr><th align="left">Icon</th><th align="left">Corresponding app</th></tr>
   </thead>
   <tbody>
-    <tr><td nowrap><img alt='Obsolete DangoPlayer Icon' width='48' src='https://brunochanrio.github.io/DangoPlayer/assets/ObsoleteDangoIcon.png'/></td><td>The icon of the obsolete DangoPlayer (<b>com.aleapps.videotime</b>) and DangoPlayer TV (<b>com.aleapps.videotimetv</b>) apps. Notice that the icon has a darker solid purple background, the Dango colors are Light Pink, Light Purple and Light Blue, and the Dango stick color are Light Amber</td></tr>
-    <tr><td nowrap><img alt='Current Modern DangoPlayer Icon' width='48' src='https://brunochanrio.github.io/DangoPlayer/assets/CurrentDangoIcon.png'/></td><td>The current icon of the modern DangoPlayer (<b>com.brunochanrio.dangoplayeruni</b>) app, which are used on the current version (5.0freya). Notice that the icon has a colorful gradient background composed of Pink, Purple, Blue and Mint Green colors, the Dango colors are Light Pink, Light Mint Green and Light Purple, and the Dango stick color are Light Amber</td></tr>
-    <tr><td nowrap><img alt='New Modern DangoPlayer Icon' width='48' src='https://brunochanrio.github.io/DangoPlayer/assets/FutureDangoIcon.png'/></td><td>The new icon of the modern DangoPlayer (<b>com.brunochanrio.dangoplayeruni</b>) app, which will begin to be used starting with the next version (6.0usagi) as part of the new DangoPlayer rebranding. Notice that the icon has a colorful gradient background composed of Pink, Mint Green, Yellow and Purple colors, the Dango colors are Light Pink, Light Mint Green and Light Yellow, and the Dango stick color are Light Purple</td></tr>
+    <tr><td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/ObsoleteDangoIcon.png'/></td><td>The icon of the obsolete DangoPlayer (<b>com.aleapps.videotime</b>) and DangoPlayer TV (<b>com.aleapps.videotimetv</b>) apps. Notice that the icon has a darker solid purple background, the Dango colors are Light Pink, Light Purple and Light Blue, and the Dango stick color are Light Amber</td></tr>
+    <tr><td nowrap><img alt='Current Modern DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/CurrentDangoIcon.png'/></td><td>The current icon of the modern DangoPlayer (<b>com.brunochanrio.dangoplayeruni</b>) app, which are used on the current version (5.0freya). Notice that the icon has a colorful gradient background composed of Pink, Purple, Blue and Mint Green colors, the Dango colors are Light Pink, Light Mint Green and Light Purple, and the Dango stick color are Light Amber</td></tr>
+    <tr><td nowrap><img alt='New Modern DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/news/img/FutureDangoIcon.png'/></td><td>The new icon of the modern DangoPlayer (<b>com.brunochanrio.dangoplayeruni</b>) app, which will begin to be used starting with the next version (6.0usagi) as part of the new DangoPlayer rebranding. Notice that the icon has a colorful gradient background composed of Pink, Mint Green, Yellow and Purple colors, the Dango colors are Light Pink, Light Mint Green and Light Yellow, and the Dango stick color are Light Purple</td></tr>
     
   </tbody>
 </table>
