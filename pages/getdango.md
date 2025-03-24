@@ -1,3 +1,7 @@
+---
+title: Download DangoPlayer 
+permalink: /getdango
+---
 # Download DangoPlayer
 Here you can download the latest version of DangoPlayer from the Google Play Store for any Android device with Google services, and from APK for any Android device without Google services, like Huawei, Amazon Fire OS, LineageOS without GApps, etc.
 
