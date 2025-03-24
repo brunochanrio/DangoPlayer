@@ -11,9 +11,9 @@ mobilelogo: assets/DangoPlayerUni_Icon.png
 
 baseurl: "/DangoPlayer"
 color: "#FF7FAC"
-accentColor: teal
+accentColor: pink
 themeColor: pink
-fixedNav: 'false' # true or false
+fixedNav: 'true' # true or false
 developedby: true
 
 repo: "https://github.com/brunochanrio/DangoPlayer"
