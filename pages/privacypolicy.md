@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacypolicy
+---
+
 **Privacy Policy**
 
 Bruno-chanrio built the DangoPlayer app as a Free app. This SERVICE is provided by Bruno-chanrio at no cost and is intended for use as is.
