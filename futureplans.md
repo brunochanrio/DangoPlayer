@@ -3,7 +3,7 @@ Here are the future plans for DangoPlayer, which can include new features and ch
 
 We are developing the next version of DangoPlayer (**6.0usagi**), which would include various changes and enhancements, as well as new features and a UI overhaul
 
-## Implemented features and changes for the next version of DangoPlayer (6.0usagi)
+## Implemented but not tested features and changes for the next version of DangoPlayer (6.0usagi)
 - Branding overhaul, by using a completely new color set
 - Full UI Overhaul, by removing support for Dynamic Colors on Android 12 and later in favor of DangoPlayer's new branding colors, and by applying different colors for the sections
 - Optimization of the code by removing unused and obsolete features and resources from the code
