@@ -1,5 +1,5 @@
 ---
-title:  "Removal of the migration code that allowed migration from the obsolete DangoPlayer (VideoTime) to modern DangoPlayer (DangoPlayer Uni)"
+title:  "Removal of the migration code that allowed migration from the obsolete DangoPlayer (formerly VideoTime and TubiLeap) to modern DangoPlayer (formerly DangoPlayer Uni)"
 date:   2025-03-24 11:37:00
 categories: update
 badges:
