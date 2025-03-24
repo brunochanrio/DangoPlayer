@@ -15,3 +15,4 @@ We are developing the next version of DangoPlayer (**6.0usagi**), which would in
 - Support for adding local playlists from the local storage on mobile devices
 - Ability to modify playlists
 - Support for Origin and Host headers in the player
+- Integration with the Android TV Home Screen
