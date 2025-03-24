@@ -6,7 +6,7 @@ This is the most recommended way to download DangoPlayer on Android devices with
 
 Click on the next button to download DangoPlayer from the Google Play Store:
 
-<a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='80' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='90' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 ## Download from APK
 This is a alternative way to download DangoPlayer on any Android device, with or without Google services, which allows DangoPlayer to be installed on devices without Google services, such as Huawei, Amazon Fire OS, LineageOS without GApps, etc.
@@ -15,4 +15,4 @@ However, this is the most complicated way to install DangoPlayer, because requir
 
 Click on the next button to download DangoPlayer APK:
 
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download Android APK" height="80" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/getdango/apk"><img alt="Download DangoPlayer APK for Android-based devices" height="90" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
