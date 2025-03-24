@@ -31,6 +31,14 @@ To facilitate users of the obsolete DangoPlayer and DangoPlayer TV apps to migra
 3. Once the migration code of the obsolete app are loaded, the code takes the existing IPTV lists on the obsolete app and then passes the taken IPTV lists to the migration code of the new app and then the migration code of the new app is loaded
 4. Once the migration code of the new app are loaded, the code would add the IPTV lists taken by the obsolete app and then adds the taken IPTV lists to the IPTV list database of the new app
 
+Here is a video demonstration on how the migration codes of both the obsolete DangoPlayer app and the modern DangoPlayer app works:
+
+<video width="400" controls>
+  <source src="https://brunochanrio.github.io/DangoPlayer/news/vid/VideoTimeToDangoMigrationDemo.mp4" type="video/mp4" />
+</video>
+
+In the video demonstration we used the last version of the obsolete DangoPlayer app (**2023.7.12poochy_rev2**) and the current version of the modern DangoPlayer app (**5.0freya**), which is the last version of the modern DangoPlayer to include the migration code, as the next version of the modern DangoPlayer (**6.0usagi**) will remove the migration code completely
+
 ## The end of the transition
 In 2024, with the release of the version (2.0hangyodon) we renamed DangoPlayer Uni to simply DangoPlayer, which now doesn't make confusión with the obsolete DangoPlayer and DangoPlayer TV apps, as the number of users of the obsolete apps has decreased with the removal of the obsolete apps from the Google Play Store and the migrations to DangoPlayer Uni, marking the end of the transition from the obsolete DangoPlayer and DangoPlayer TV apps to the modern DangoPlayer app
 
