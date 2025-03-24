@@ -1,3 +1,7 @@
+---
+title: Screenshots
+permalink: /screenshots
+---
 # Screenshots
 ## Smartphone
 <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS1.png'/> <img width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/MobileSS3.png'/>
