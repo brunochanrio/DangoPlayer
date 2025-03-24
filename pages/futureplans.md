@@ -1,3 +1,7 @@
+---
+title: Future plans for DangoPlayer
+permalink: /futureplans
+---
 # Future plans for DangoPlayer
 Here are the future plans for DangoPlayer, which can include new features and changes
 
