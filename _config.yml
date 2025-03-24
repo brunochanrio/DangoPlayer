@@ -10,7 +10,7 @@ mobilelogo: assets/DangoPlayerUni_Icon.png
 
 
 baseurl: "/DangoPlayer"
-color: "#B74A75"
+color: "#FF7FAC"
 accentColor: teal
 themeColor: pink
 fixedNav: 'false' # true or false
