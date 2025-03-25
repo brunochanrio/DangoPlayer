@@ -24,7 +24,26 @@ Under construction
 Under construction
 
 ### TubiLeap
-Under construction
+<table>
+    <thead>
+        <tr>
+            <th align="left">Icon</th>
+            <th align="left">Version</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td nowrap><img alt='TubiLeap Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_4th_Icon.png'/></td>
+            <td>
+                Version <b>5.0.0luisa</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/TubiLeap_5.0.0luisa.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### VideoTime (Versions without advertising)
 <table>
