@@ -154,7 +154,7 @@ All APKs are hosted in Internet Archive
         <tr>
             <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
             <td>
-                Version <b>1.7nezuko</b>.
+                Version <b>1.7nezuko</b>
                 <br>
                 <b>Works on:</b> Android 7.0 and later
                 <br>
