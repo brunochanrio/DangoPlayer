@@ -14,7 +14,146 @@ All APKs are hosted in Internet Archive
 Under construction
 
 ### DangoPlayer Uni (VideoTime-inherited codebase family)
-Under construction
+<table>
+    <thead>
+        <tr>
+            <th align="left">Icon</th>
+            <th align="left">Version</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.7nezuko_rev1</b>
+                <br>
+                <b>Works on:</b> Android 7.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.7nezuko_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.7nezuko</b>.
+                <br>
+                <b>Works on:</b> Android 7.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.7nezuko.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.6lala</b>
+                <br>
+                <b>Works on:</b> Android 7.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.6lala.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.5kiki</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.5kiki.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.4dwaekki</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.4dwaekki.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.4dangoplayeruni_beta_1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.4dangoplayeruni_beta_1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.3leebit</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.3leebit.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.2jiniret_rev1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.2jiniret_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.2jiniret</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.2jiniret.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.1quokka</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.1quokka.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.0.2cinnamoroll_rev2_patch1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.0.2cinnamoroll_rev2_patch1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>1.0.1cinnamoroll_rev1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_1.0.1cinnamoroll_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Uni Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_1st_Icon.png'/></td>
+            <td>
+                Version <b>0.1dangoplayer_uni_prototype1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayerUni_0.1dangoplayer_uni_prototype1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Old versions of the obsolete DangoPlayer and DangoPlayer TV apps
 ### DangoPlayer (Obsolete version)
