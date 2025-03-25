@@ -11,7 +11,126 @@ All APKs are hosted in Internet Archive
 
 ## Old versions of the modern DangoPlayer app
 ### DangoPlayer (Modern version, VideoTime-inherited codebase family)
-Under construction
+<table>
+    <thead>
+        <tr>
+            <th align="left">Icon</th>
+            <th align="left">Version</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>3.0.1sakura_rev1</b>
+                <br>
+                <b>Works on:</b> Android 9 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_3.0.1sakura_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>3.0sakura</b>
+                <br>
+                <b>Works on:</b> Android 9 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_3.0sakura.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.2usahana_patch1</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.2usahana_patch1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.2usahana</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.2usahana.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.1.2keroppi_rev2_patch1</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.1.2keroppi_rev2_patch1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.1.2keroppi_rev2</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.1.2keroppi_rev2.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.1.1keroppi_rev1</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.1.1keroppi_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.1keroppi_patch1</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.1keroppi_patch1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                Version <b>2.1keroppi</b>
+                <br>
+                <b>Works on:</b> Android 8.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.1keroppi.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_2nd_Icon.png'/></td>
+            <td>
+                Version <b>2.0.1hangyodon_rev1</b>
+                <br>
+                <b>Works on:</b> Android 7.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.0.1hangyodon_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_2nd_Icon.png'/></td>
+            <td>
+                Version <b>2.0hangyodon</b>
+                <br>
+                <b>Works on:</b> Android 7.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_2.0hangyodon.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### DangoPlayer Uni (VideoTime-inherited codebase family)
 <table>
