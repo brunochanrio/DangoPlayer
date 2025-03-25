@@ -18,7 +18,126 @@ Under construction
 
 ## Old versions of the obsolete DangoPlayer and DangoPlayer TV apps
 ### DangoPlayer (Obsolete version)
-Under construction
+<table>
+    <thead>
+        <tr>
+            <th align="left">Icon</th>
+            <th align="left">Version</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2023.7.12poochy_rev2</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2023.7.12poochy_rev2.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2023.7.6poochy_rev1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2023.7.6poochy_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2023.5.31poochy</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2023.5.31poochy.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2023.3.17kuromi_rev3</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2023.3.17kuromi_rev3.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2023.1.21neliatchi</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2023.1.21neliatchi.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2023.1.1chamametchi</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2023.1.1chamametchi.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2022.12.30gudetama_holidayspecial</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2022.12.30gudetama_holidayspecial.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2022.12.20gudetama_rev1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2022.12.20gudetama_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2022.12.2gudetama</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2022.12.2gudetama.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2022.10.1totoro_rev1</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2022.10.1totoro_rev1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='Obsolete DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/VideoTime_5th_Icon.png'/></td>
+            <td>
+                Version <b>2022.9.17totoro</b>
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-obsolete/DangoPlayer_2022.9.17totoro.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### DangoPlayer TV (Obsolete version)
 Under construction
