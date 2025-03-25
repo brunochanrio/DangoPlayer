@@ -10,10 +10,10 @@ Here is the DangoPlayer APK Archive, when you can download the APKs of the old v
 All APKs are hosted in Internet Archive
 
 ## Old versions of the modern DangoPlayer app
-### DangoPlayer Uni (VideoTime-inherited codebase family)
+### DangoPlayer (Modern version, VideoTime-inherited codebase family)
 Under construction
 
-### DangoPlayer (Modern version, VideoTime-inherited codebase family)
+### DangoPlayer Uni (VideoTime-inherited codebase family)
 Under construction
 
 ## Old versions of the obsolete DangoPlayer and DangoPlayer TV apps
@@ -418,7 +418,7 @@ Under construction
 ### VideoTime (Versions with advertising)
 {% include alert.html type="warning" title="Warning for users of devices with Android 12 and later versions" content="Versions of the VideoTime app with advertising doesn't work on Android 12 and later versions, as the app will crash when launched, so if you want to try versions of the VideoTime app with advertising, you need to try it on a device running Android 11 or earlier versions" %}
 
-{% include alert.html type="info" title="Info about advertising in these versions of VideoTime" content="Advertising in these versions of the VideoTime app will no longer appears because the Google AdMob account associated with the app has been deleted when the app became 100% ad-free with the version **2.6.0reuben**" %}
+{% include alert.html type="info" title="Info about advertising in these versions of VideoTime" content="Advertising in these versions of the VideoTime app will no longer appears because the Google AdMob account associated with the app has been deleted when the app became 100% ad-free with the version 2.6.0reuben" %}
 
 <table>
     <thead>
