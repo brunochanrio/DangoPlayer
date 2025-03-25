@@ -18,6 +18,6 @@ Download the latest APK of DangoPlayer for any Android device with Google servic
 Android 9 or later
  
 ## Download
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download DangoPlayer APK for Android-based devices" height="90" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
+<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 {% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="You are using a Android device with Google services? We recommend you to download DangoPlayer from the Google Play Store" %}
