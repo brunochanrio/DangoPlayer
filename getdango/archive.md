@@ -9,7 +9,7 @@ Here is the DangoPlayer APK Archive, when you can download the APKs of the old v
 
 All APKs are hosted in Internet Archive
 
-## Warning for users that want to use DangoPlayer as a daily-use Video Player and IPTV Client
+### Warning for users that want to use DangoPlayer as a daily-use Video Player and IPTV Client
 These older versions of the modern DangoPlayer app (formerly DangoPlayer Uni), as well as all the versions of the obsolete DangoPlayer and DangoPlayer TV apps (formerly VideoTime and TubiLeap) are only available for archival purposes, so that are meant only for testing and experimenting, not to be uses as a daily-use Video Player and IPTV Client
 
 If you want to use DangoPlayer as your daily-use Video Player and IPTV Client, we recommend you to download the latest version of DangoPlayer from either the Google Play Store (recommended for most users) or from APK
