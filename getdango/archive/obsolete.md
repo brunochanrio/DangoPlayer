@@ -3,9 +3,9 @@ title: APK Archive of the obsolete DangoPlayer app
 permalink: /getdango/archive/obsolete
 ---
 # APK Archive of the obsolete DangoPlayer app
-Here is the APK Archive of the obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) for Android mobile devices
+Here is the APK Archive of the obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) for Android mobile devices, which is the DangoPlayer app that existed before the launch of the modern DangoPlayer app we know today in 2023
 
-{% include alert.html type="danger" title="This app is no longer supported" content="The obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) is no longer supported anymore and will not work well on newer devices, so we discourage its usage as a daily-use video player and IPTV client" %}
+{% include alert.html type="danger" title="This app is no longer supported" content="The obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) is no longer supported anymore and will not work well on newer devices, so we discourage its usage as a daily-use video player and IPTV client. <br> <br> We recommend you to download the latest version of the modern DangoPlayer app from either the Google Play Store (recommended for most users) or from APK <br> <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='70' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href='https://brunochanrio.github.io/DangoPlayer/getdango/apk'><img alt='Download DangoPlayer APK for Android-based devices' height='70' src='https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png'/></a>" %}
 
 {% include alert.html type="warning" title="Warning for users of devices with Android 12 and later versions" content="Versions 1.0.0joegardner up to 2.2.0sparky of the VideoTime app doesn't work on Android 12 and later versions, as the app will crash when launched, so if you want to try versions 1.0.0joegardner up to 2.2.0sparky of the VideoTime app, you need to try it on a device running Android 11 or earlier versions" %}
 
