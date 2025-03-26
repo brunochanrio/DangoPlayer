@@ -3,7 +3,7 @@ title: DangoPlayer APK Archive
 permalink: /getdango/archive
 ---
 # DangoPlayer APK Archive
-<img alt='DangoPlayer Evolution Lineup' width='700' src='https://brunochanrio.github.io/DangoPlayer/news/img/DangoPlayerEvolution.png'/>
+<img alt='DangoPlayer Evolution Lineup' width='700' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoEvolutionLineup.png'/>
 
 Here is the DangoPlayer APK Archive, when you can download the APKs of the old versions of the modern DangoPlayer app, as well as the obsolete DangoPlayer and DangoPlayer TV apps
 
