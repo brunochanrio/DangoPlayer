@@ -6,5 +6,7 @@
   url: "futureplans"
 - title: "News Feed"
   url: "news"
+- title: "APK Archive"
+  url: "apkarchive"
 - title: "Privacy Policy"
   url: "privacypolicy"
