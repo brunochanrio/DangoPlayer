@@ -3,7 +3,9 @@ title: APK Archive of the obsolete DangoPlayer app
 permalink: /getdango/archive/obsolete
 ---
 # APK Archive of the obsolete DangoPlayer app
-Here is the APK Archive of the obsolete DangoPlayer app for Android mobile devices
+Here is the APK Archive of the obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) for Android mobile devices
+
+{% include alert.html type="danger" title="This app is no longer supported" content="The obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) is no longer supported anymore and will not work well on newer devices, so we discourage its usage as a daily-use video player and IPTV client" %}
 
 {% include alert.html type="warning" title="Warning for users of devices with Android 12 and later versions" content="Versions 1.0.0joegardner up to 2.2.0sparky of the VideoTime app doesn't work on Android 12 and later versions, as the app will crash when launched, so if you want to try versions 1.0.0joegardner up to 2.2.0sparky of the VideoTime app, you need to try it on a device running Android 11 or earlier versions" %}
 
