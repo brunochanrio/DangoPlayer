@@ -28,4 +28,4 @@ However, these older versions of the modern DangoPlayer app (formerly DangoPlaye
 
 Click on the next button to visit the DangoPlayer APK Archive:
 
-<a href="https://brunochanrio.github.io/DangoPlayer/getdango/apk"><img alt="Visit the DangoPlayer APK Archive" height="90" src="https://brunochanrio.github.io/DangoPlayer/assets/VisitAPKArchive.png"/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/getdango/archive"><img alt="Visit the DangoPlayer APK Archive" height="90" src="https://brunochanrio.github.io/DangoPlayer/assets/VisitAPKArchive.png"/></a>
