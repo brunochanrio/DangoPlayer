@@ -1,6 +1,6 @@
 ---
 title: DangoPlayer APK Archive
-permalink: /getdango/archive
+permalink: /apkarchive
 ---
 # DangoPlayer APK Archive
 <img alt='DangoPlayer Evolution Lineup' width='700' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoEvolutionLineup.png'/>
@@ -14,6 +14,6 @@ All APKs are hosted in Internet Archive
 ## APK Archives
 Here is the APK Archives for the modern DangoPlayer app, as well as the obsolete DangoPlayer and DangoPlayer TV apps 
 
-<a href="https://brunochanrio.github.io/DangoPlayer/getdango/archive/modern"><img alt='Modern DangoPlayer app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Modern.png'/></a>
-<a href="https://brunochanrio.github.io/DangoPlayer/getdango/archive/obsolete"><img alt='Obsolete DangoPlayer app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Obsolete.png'/></a>
-<a href="https://brunochanrio.github.io/DangoPlayer/getdango/archive/obsoletetv"><img alt='Obsolete DangoPlayer TV app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_ObsoleteTV.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/modern"><img alt='Modern DangoPlayer app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Modern.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/obsolete"><img alt='Obsolete DangoPlayer app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Obsolete.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/obsoletetv"><img alt='Obsolete DangoPlayer TV app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_ObsoleteTV.png'/></a>
