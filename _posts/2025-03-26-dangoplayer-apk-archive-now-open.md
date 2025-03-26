@@ -1,6 +1,6 @@
 ---
 title:  "The DangoPlayer APK Archive is now open"
-date:   2025-03-26 20:30:00
+date:   2025-03-26 20:38:00
 categories: update
 badges:
  - type: info
@@ -18,4 +18,4 @@ In the DangoPlayer APK Archive, we offer all versions of both the modern DangoPl
 
 Here is the link to the DangoPlayer APK Archive if you want to visit it:
 
-<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive"><img alt='DangoPlayer APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/VisitAPKArchive.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive"><img alt='Visit the DangoPlayer APK Archive' height='110' src='https://brunochanrio.github.io/DangoPlayer/assets/VisitAPKArchive.png'/></a>
