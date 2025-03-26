@@ -6,10 +6,11 @@ A fast video player and IPTV client for Android and TV
 
 DangoPlayer is a unified, unique and fast video player and IPTV client for Android, Android TV and Google TV, with many features
 
-<a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt='Download DangoPlayer' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Download.png'/></a>
-<a href="https://brunochanrio.github.io/DangoPlayer/screenshots"><img alt='View Screenshots' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Screenshots.png'/></a>
-<a href="https://brunochanrio.github.io/DangoPlayer/futureplans"><img alt='Future plans for DangoPlayer' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_FuturePlans.png'/></a>
-<a href="https://brunochanrio.github.io/DangoPlayer/news"><img alt='News Feed' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_NewsFeed.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/getdango"><img alt='Download DangoPlayer -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Download.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/screenshots"><img alt='View Screenshots -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_Screenshots.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/futureplans"><img alt='Future plans for DangoPlayer -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_FuturePlans.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/news"><img alt='News Feed -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_NewsFeed.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive"><img alt='DangoPlayer APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/DangoBnr_APKArchive.png'/></a>
 
 ## Features:
 - Based on Google's Media3 library
