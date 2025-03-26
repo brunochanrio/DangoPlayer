@@ -1,6 +1,6 @@
 ---
 title: APK Archive of the modern DangoPlayer app 
-permalink: /getdango/archive/modern
+permalink: /apkarchive/modern
 ---
 # APK Archive of the modern DangoPlayer app 
 Here is the APK Archive of the modern DangoPlayer app (formerly known as DangoPlayer Uni) for Android, Android TV and Google TV, which is the current DangoPlayer app that we know today
