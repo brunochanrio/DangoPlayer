@@ -5,6 +5,8 @@ permalink: /getdango/archive/obsoletetv
 # APK Archive of the obsolete DangoPlayer TV app
 Here is the APK Archive of the obsolete DangoPlayer TV app for Android TV and Google TV
 
+{% include alert.html type="danger" title="This app is no longer supported" content="The obsolete DangoPlayer TV app is no longer supported anymore and will not work well on newer devices, so we discourage its usage as a daily-use IPTV client" %}
+
 <table>
     <thead>
         <tr>
