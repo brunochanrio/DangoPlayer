@@ -6,6 +6,8 @@ permalink: /getdango/apk
 Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei, Amazon Fire OS, LineageOS without GApps, etc.
  
 **Latest Version:** 5.0freya
+
+<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 ## What's new
 - The "Dangoverse" section on the main screen has been renamed to "Online Radio"
@@ -16,8 +18,5 @@ Download the latest APK of DangoPlayer for any Android device with Google servic
 
 ## Requires:
 Android 9 or later
- 
-## Download
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/5.0freya/DangoPlayer_5.0freya.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 {% include alert.html type="warning" title="Warning for users of Android devices with Google services" content="You are using a Android device with Google services? We recommend you to download DangoPlayer from the Google Play Store" %}
