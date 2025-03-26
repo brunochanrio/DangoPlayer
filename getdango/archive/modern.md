@@ -3,7 +3,10 @@ title: APK Archive of the modern DangoPlayer app
 permalink: /getdango/archive/modern
 ---
 # APK Archive of the modern DangoPlayer app 
-Here is the APK Archive of the modern DangoPlayer app for Android, Android TV and Google TV 
+Here is the APK Archive of the modern DangoPlayer app (formerly known as DangoPlayer Uni) for Android, Android TV and Google TV, which is the current DangoPlayer app that we know today
+
+{% include alert.html type="warning" title="These versions are for archival purposes only" content="These older versions of the modern DangoPlayer app (formerly DangoPlayer Uni) are only available for archival purposes, so that are not meant to be used as a daily-use video player and IPTV client. <br> <br> We recommend you to download the latest version of the modern DangoPlayer app from either the Google Play Store (recommended for most users) or from APK <br> <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='70' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href='https://brunochanrio.github.io/DangoPlayer/getdango/apk'><img alt='Download DangoPlayer APK for Android-based devices' height='70' src='https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png'/></a>" %}
+
 
 <table>
     <thead>
