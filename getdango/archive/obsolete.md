@@ -5,6 +5,10 @@ permalink: /getdango/archive/obsolete
 # APK Archive of the obsolete DangoPlayer app
 Here is the APK Archive of the obsolete DangoPlayer app for Android mobile devices
 
+{% include alert.html type="warning" title="Warning for users of devices with Android 12 and later versions" content="Versions 1.0.0joegardner up to 2.2.0sparky of the VideoTime app doesn't work on Android 12 and later versions, as the app will crash when launched, so if you want to try versions 1.0.0joegardner up to 2.2.0sparky of the VideoTime app, you need to try it on a device running Android 11 or earlier versions" %}
+
+{% include alert.html type="info" title="Info about advertising in VideoTime versions 1.0.0joegardner up to 2.2.0sparky" content="VideoTime versions 1.0.0joegardner up to 2.2.0sparky originally had advertising, but these advertising will no longer be displayed anymore because the Google AdMob account associated with the VideoTime app has been cancelled when the VideoTime app became 100% ad-free with the version 2.6.0reuben" %}
+
 <table>
     <thead>
         <tr>
