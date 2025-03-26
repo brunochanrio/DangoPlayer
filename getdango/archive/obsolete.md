@@ -1,6 +1,6 @@
 ---
 title: APK Archive of the obsolete DangoPlayer app
-permalink: getdango/archive/obsolete
+permalink: /getdango/archive/obsolete
 ---
 # APK Archive of the obsolete DangoPlayer app
 Here is the APK Archive of the obsolete DangoPlayer app for Android mobile devices
