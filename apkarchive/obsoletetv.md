@@ -1,6 +1,6 @@
 ---
 title: APK Archive of the obsolete DangoPlayer TV app
-permalink: /getdango/archive/obsoletetv
+permalink: /apkarchive/obsoletetv
 ---
 # APK Archive of the obsolete DangoPlayer TV app
 Here is the APK Archive of the obsolete DangoPlayer TV app for Android TV and Google TV, which is the Android TV and Google TV version of the DangoPlayer app that existed before the launch of the modern DangoPlayer app we know today in 2023
