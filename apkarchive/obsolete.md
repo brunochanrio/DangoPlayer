@@ -1,6 +1,6 @@
 ---
 title: APK Archive of the obsolete DangoPlayer app
-permalink: /getdango/archive/obsolete
+permalink: /apkarchive/obsolete
 ---
 # APK Archive of the obsolete DangoPlayer app
 Here is the APK Archive of the obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) for Android mobile devices, which is the DangoPlayer app that existed before the launch of the modern DangoPlayer app we know today in 2023
