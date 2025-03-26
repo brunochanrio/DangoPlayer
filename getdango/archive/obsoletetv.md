@@ -3,9 +3,9 @@ title: APK Archive of the obsolete DangoPlayer TV app
 permalink: /getdango/archive/obsoletetv
 ---
 # APK Archive of the obsolete DangoPlayer TV app
-Here is the APK Archive of the obsolete DangoPlayer TV app for Android TV and Google TV
+Here is the APK Archive of the obsolete DangoPlayer TV app for Android TV and Google TV, which is the Android TV and Google TV version of the DangoPlayer app that existed before the launch of the modern DangoPlayer app we know today in 2023
 
-{% include alert.html type="danger" title="This app is no longer supported" content="The obsolete DangoPlayer TV app is no longer supported anymore and will not work well on newer devices, so we discourage its usage as a daily-use IPTV client" %}
+{% include alert.html type="danger" title="This app is no longer supported" content="The obsolete DangoPlayer TV app is no longer supported anymore and will not work well on newer devices, so we discourage its usage as a daily-use IPTV client.  <br> <br> We recommend you to download the latest version of the modern DangoPlayer app from either the Google Play Store (recommended for most users) or from APK <br> <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='70' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href='https://brunochanrio.github.io/DangoPlayer/getdango/apk'><img alt='Download DangoPlayer APK for Android-based devices' height='70' src='https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png'/></a>" %}
 
 <table>
     <thead>
