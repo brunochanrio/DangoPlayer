@@ -1,6 +1,6 @@
 ---
 title:  "The DangoPlayer APK Archive is now open"
-date:   2025-03-26 20:27:00
+date:   2025-03-26 20:30:00
 categories: update
 badges:
  - type: info
@@ -12,7 +12,7 @@ badges:
 
 We are pleased to announce that the DangoPlayer APK archive is now open, where users will be able to download older versions of DangoPlayer, both the modern DangoPlayer app (formerly known as DangoPlayer Uni), as well as the obsolete DangoPlayer and DangoPlayer TV apps (formerly known as VideoTime and TubiLeap)
 
-<!-- more -->
+<!--more-->
 
 In the DangoPlayer APK Archive, we offer all versions of both the modern DangoPlayer app and the obsolete DangoPlayer and DangoPlayer TV apps for archival purposes, so if you want to try an older version of either the modern DangoPlayer app, as well as the obsolete DangoPlayer and DangoPlayer TV apps, you can download it from the DangoPlayer APK Archive 
 
