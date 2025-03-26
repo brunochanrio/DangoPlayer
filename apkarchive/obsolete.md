@@ -1,8 +1,8 @@
 ---
-title: APK Archive of the obsolete DangoPlayer app
+title: Obsolete DangoPlayer app APK Archive
 permalink: /apkarchive/obsolete
 ---
-# APK Archive of the obsolete DangoPlayer app
+# Obsolete DangoPlayer app APK Archive
 Here is the APK Archive of the obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) for Android mobile devices, which is the DangoPlayer app that existed before the launch of the modern DangoPlayer app we know today in 2023
 
 {% include alert.html type="danger" title="This app is completely discontinued." content="The obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) is completely discontinued and will not work well on newer devices, so we discourage its usage as a daily-use video player and IPTV client. <br> <br> We recommend you to download the latest version of the modern DangoPlayer app from either the Google Play Store (recommended for most users) or from APK <br> <a href='https://play.google.com/store/apps/details?id=com.brunochanrio.dangoplayeruni&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height='70' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a><a href='https://brunochanrio.github.io/DangoPlayer/getdango/apk'><img alt='Download DangoPlayer APK for Android-based devices' height='70' src='https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png'/></a>" %}
