@@ -11,6 +11,10 @@ https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/
 https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
+#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Axinom ClearKey DRM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FmY0xnWCPCNaSpRG-tUuTQ","kid":"nrQFDeRLSAKTLifXUIPiZg"}],"type":"temporary"}
+https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p_ClearKey.mpd
 #EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) DASH-IF Live
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 #EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Live Unified Streaming reference stream
