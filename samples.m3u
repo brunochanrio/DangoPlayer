@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming Samples",Apple BipBop H264 (Apple HLS)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop H264 (Apple HLS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming Samples",Apple BipBop HEVC (Apple HLS)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop HEVC (Apple HLS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",Axinom Tears of Steel - Clear (MPEG-DASH)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/Axinom.png" group-title="MPEG-DASH",Axinom Tears of Steel - Clear (MPEG-DASH)
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",Axinom Tears of Steel - Widevine DRM (MPEG-DASH)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/Axinom.png" group-title="MPEG-DASH",Axinom Tears of Steel - Widevine DRM (MPEG-DASH)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/
 https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",Bitmovin MP4 Sample (Progressive)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/Bitmovin.png" group-title="Progressive Video",Bitmovin MP4 Sample (Progressive)
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",DASH-IF Live (MPEG-DASH)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/DASHIF.png" group-title="MPEG-DASH",DASH-IF Live (MPEG-DASH)
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",Kung Fury (Progressive)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/LaserUnicorns.png" group-title="Progressive Video",Kung Fury (Progressive)
 https://hjortsberg.org/downloads/Kung%20Fury.mp4
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",Sintel (Progressive)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/Sintel.png" group-title="Progressive Video",Sintel (Progressive)
 http://bitdash-a.akamaihd.net/content/sintel/Sintel.mp4
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming Samples",Unified Streaming Live reference stream (Apple HLS)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="Apple HLS",Unified Streaming Live reference stream (Apple HLS)
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",Unified Streaming Live reference stream (MPEG-DASH)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="MPEG-DASH",Unified Streaming Live reference stream (MPEG-DASH)
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming Samples",Unified Streaming Live reference stream (MS IIS Smooth Streaming)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="Microsoft IIS Smooth Streaming",Unified Streaming Live reference stream (MS IIS Smooth Streaming)
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/Manifest
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming Samples",Unified Streaming Tears of Steel (Apple HLS)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="Apple HLS",Unified Streaming Tears of Steel (Apple HLS)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",Unified Streaming Tears of Steel (MPEG-DASH)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="MPEG-DASH",Unified Streaming Tears of Steel (MPEG-DASH)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming Samples",Unified Streaming Tears of Steel (IIS Smooth Streaming)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="Microsoft IIS Smooth Streaming",Unified Streaming Tears of Steel (IIS Smooth Streaming)
 https://demo.unified-streaming.com/k8s/features/stable/usp-s3-storage/tears-of-steel/tears-of-steel.ism/Manifest
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",WMV HD 5.1 Surround Sound AAC Test (Progressive)
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/WMVHD.png" group-title="Progressive Video",WMV HD 5.1 Surround Sound AAC Test (Progressive)
 https://brunochanrio.github.io/DangoPlayer/samples/wmvhd_aac_test.mp4
