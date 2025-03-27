@@ -16,7 +16,7 @@ https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Unified Streaming Live reference stream
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.mpd
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming (MSS) Samples",(MSS) Unified Streaming Live reference stream
-https://demo.unified-streaming.com/k8s/live/stable/live.isml/Manifest
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/Manifest?f=.ism
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Bitmovin MP4 Sample
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Sintel
