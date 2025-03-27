@@ -15,6 +15,8 @@ https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent_MPEGDASH.png" group-title="MPEG-DASH Samples",(MPEG-DASH) Live Unified Streaming reference stream
 https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.mpd
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent_MicrosoftSmoothStreaming.png" group-title="Microsoft Smooth Streaming (MSS) Samples",(Microsoft Smooth Streaming) Super Speedway
+https://playready.directtaps.net/smoothstreaming/SSWSS720H264/SuperSpeedway_720.ism/Manifest
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive Video) Bitmovin MP4 Sample
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive Video) Sintel
