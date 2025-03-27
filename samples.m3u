@@ -3,8 +3,8 @@
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming (HLS) Samples",(HLS) Apple BipBop HEVC
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming (HLS) Samples",(HLS) Live Unified Streaming reference stream
-https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming (HLS) Samples",(HLS) Unified Streaming Live reference stream
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Axinom Clear
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Axinom Widevine DRM
@@ -13,15 +13,15 @@ https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
 https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) DASH-IF Live
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Live Unified Streaming reference stream
-https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming (MSS) Samples",(MSS) Super Speedway
-https://playready.directtaps.net/smoothstreaming/SSWSS720H264/SuperSpeedway_720.ism/Manifest
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive Video) Bitmovin MP4 Sample
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Unified Streaming Live reference stream
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming (MSS) Samples",(MSS) Unified Streaming Live reference stream
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/Manifest
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Bitmovin MP4 Sample
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive Video) Sintel
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Sintel
 http://bitdash-a.akamaihd.net/content/sintel/Sintel.mp4
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive Video) Kung Fury
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Kung Fury
 https://hjortsberg.org/downloads/Kung%20Fury.mp4
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive Video) WMV HD 5.1 Surround Sound AAC Test
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) WMV HD 5.1 Surround Sound AAC Test
 https://brunochanrio.github.io/DangoPlayer/samples/wmvhd_aac_test.mp4
