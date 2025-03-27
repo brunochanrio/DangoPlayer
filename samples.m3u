@@ -5,8 +5,6 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 #EXTINF:-1 group-title="Apple HTTP Live Streaming (HLS) Samples",(Apple HLS) Live Unified Streaming reference stream
 https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
-#EXTINF:-1 group-title="Apple HTTP Live Streaming (HLS) Samples",(Apple HLS) Sintel Multi-lang audio/subtitle
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
 #EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Axinom Clear
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
 #EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Axinom Widevine DRM
@@ -17,8 +15,6 @@ https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 #EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Live Unified Streaming reference stream
 https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.mpd
-#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Sintel Multi-lang audio/subtitle
-https://bitdash-a.akamaihd.net/content/sintel/sintel.mpd
 #EXTINF:-1 group-title="Progressive Video Samples",(Progressive Video) Bitmovin MP4 Sample
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
 #EXTINF:-1 group-title="Progressive Video Samples",(Progressive Video) Sintel
