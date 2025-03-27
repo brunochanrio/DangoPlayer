@@ -5,9 +5,9 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_AppleHLS.png" group-title="Apple HTTP Live Streaming (HLS) Samples",(HLS) Unified Streaming Live reference stream
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Axinom Clear
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Tears of Steel - Clear
 https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Axinom Widevine DRM
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Tears of Steel - Widevine DRM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/
 https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
@@ -15,8 +15,8 @@ https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
 https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MPEGDASH.png" group-title="MPEG-DASH Samples",(DASH) Unified Streaming Live reference stream
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.mpd
-#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming (MSS) Samples",(MSS) Unified Streaming Live reference stream
-https://demo.unified-streaming.com/k8s/live/stable/live.isml/Manifest?f=.ism
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_MicrosoftSmoothStreaming.png" group-title="Microsoft IIS Smooth Streaming (MSS) Samples",(MSS) Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/usp-s3-storage/tears-of-steel/tears-of-steel.ism/Manifest
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Bitmovin MP4 Sample
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
 #EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/SampleContent2_ProgressiveVideo.png" group-title="Progressive Video Samples",(Progressive) Sintel
