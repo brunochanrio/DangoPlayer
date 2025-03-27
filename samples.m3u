@@ -1,17 +1,29 @@
 #EXTM3U
-#EXTINF:-1,DASH Axinom Clear
-https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
-#EXTINF:-1,DASH-IF Live
-https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
-#EXTINF:-1,HLS Apple BipBop H.264
+#EXTINF:-1 group-title="Apple HTTP Live Streaming (HLS) Samples",(Apple HLS) Apple BipBop H.264
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
-#EXTINF:-1,HLS Apple BipBop HEVC
+#EXTINF:-1 group-title="Apple HTTP Live Streaming (HLS) Samples",(Apple HLS) Apple BipBop HEVC
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
-#EXTINF:-1,Progressive MP4 WMV HD 5.1 Surround Sound AAC Test
-https://archive.org/download/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/5.1%20Surround%20Sound%20AAC%20Test.mp4
-#EXTINF:-1,Progressive MP4
+#EXTINF:-1 group-title="Apple HTTP Live Streaming (HLS) Samples",(Apple HLS) Live Unified Streaming reference stream
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 group-title="Apple HTTP Live Streaming (HLS) Samples",(Apple HLS) Sintel Multi-lang audio/subtitle
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Axinom Clear
+https://media.axprod.net/TestVectors/v7-Clear/Manifest_MultiPeriod_1080p.mpd
+#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Axinom Widevine DRM
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://mtdeer.com/exostreamr/drm-proxy/multi-drm/widevine/
+https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_1080p.mpd
+#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) DASH-IF Live
+https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
+#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Live Unified Streaming reference stream
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.mpd
+#EXTINF:-1 group-title="MPEG-DASH Samples",(MPEG-DASH) Sintel Multi-lang audio/subtitle
+https://bitdash-a.akamaihd.net/content/sintel/sintel.mpd
+#EXTINF:-1 group-title="Progressive Video Samples",(Progressive Video) Bitmovin MP4 Sample
 https://bitmovin-a.akamaihd.net/content/MI201109210084_1/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
-#EXTINF:-1,Progressive MP4 Sintel
+#EXTINF:-1 group-title="Progressive Video Samples",(Progressive Video) Sintel
 http://bitdash-a.akamaihd.net/content/sintel/Sintel.mp4
-#EXTINF:-1,Progressive MP4 Kung Fury
+#EXTINF:-1 group-title="Progressive Video Samples",(Progressive Video) Kung Fury
 https://hjortsberg.org/downloads/Kung%20Fury.mp4
+#EXTINF:-1 group-title="Progressive Video Samples",(Progressive Video) WMV HD 5.1 Surround Sound AAC Test
+https://archive.org/download/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/5.1%20Surround%20Sound%20AAC%20Test.mp4
