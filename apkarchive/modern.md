@@ -21,7 +21,7 @@ Here is the APK Archive of the modern DangoPlayer app (formerly known as DangoPl
             <td>
                 <b>DangoPlayer</b>
                 <br>
-                <b>Version:</b> 5.0.freya
+                <b>Version:</b> 5.0freya
                 <br>
                 <b>Works on:</b> Android 9 and later
                 <br>
