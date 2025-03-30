@@ -21,6 +21,18 @@ Here is the APK Archive of the modern DangoPlayer app (formerly known as DangoPl
             <td>
                 <b>DangoPlayer</b>
                 <br>
+                <b>Version:</b> 5.0.freya
+                <br>
+                <b>Works on:</b> Android 9 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern/DangoPlayer_5.0freya.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_3rd_Icon.png'/></td>
+            <td>
+                <b>DangoPlayer</b>
+                <br>
                 <b>Version:</b> 3.0.1sakura_rev1
                 <br>
                 <b>Works on:</b> Android 9 and later
