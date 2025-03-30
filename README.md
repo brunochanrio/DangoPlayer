@@ -31,7 +31,7 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 ## Streaming protocols supported:
 - Apple HTTP Live Streaming (HLS)
 - MPEG-DASH
-- Microsoft Smooth Streaming (MSS)
+- Microsoft Smooth Streaming (MS-STTR)
 - Real-Time Streaming Protocol (RTSP)
 
 ## Requires:
