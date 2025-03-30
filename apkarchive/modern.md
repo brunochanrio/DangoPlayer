@@ -1,5 +1,5 @@
 ---
-title: Modern DangoPlayer app APK Archive
+title: Modern DangoPlayer app APK Archive (VideoTime-inherited codebase)
 permalink: /apkarchive/modern
 ---
 # Modern DangoPlayer app APK Archive (VideoTime-inherited codebase)
