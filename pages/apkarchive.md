@@ -14,6 +14,7 @@ All APKs are hosted in Internet Archive
 ## APK Archives
 Here is the APK Archives for the modern DangoPlayer app in the VideoTime-inherited codebase, as well as the obsolete DangoPlayer and DangoPlayer TV apps 
 
-<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/modern"><img alt='Modern DangoPlayer app APK Archive (VideoTime-inherited codebase) -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Modern.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/modern/usagicore"><img alt='Modern DangoPlayer app APK Archive (UsagiCore codebase) -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Modern_UsagiCore.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/modern/videotime-inherited"><img alt='Modern DangoPlayer app APK Archive (VideoTime-inherited codebase) -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Modern.png'/></a>
 <a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/obsolete"><img alt='Obsolete DangoPlayer app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_Obsolete.png'/></a>
 <a href="https://brunochanrio.github.io/DangoPlayer/apkarchive/obsoletetv"><img alt='Obsolete DangoPlayer TV app APK Archive -->' width='300' src='https://brunochanrio.github.io/DangoPlayer/assets/ArchiveBnr_ObsoleteTV.png'/></a>
