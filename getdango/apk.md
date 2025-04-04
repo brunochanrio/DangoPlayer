@@ -11,7 +11,7 @@ Download the latest APK of DangoPlayer for any Android device with Google servic
  
 ## What's new
 - Bug fixes and improvements in the app
-- 
+
 ## Requires:
 Android 5.0 or later
  
