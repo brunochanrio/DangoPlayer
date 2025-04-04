@@ -11,7 +11,7 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 
 ## Features:
 - Based on Google's Media3 library
-- Support for picture in picture mode*
+- Support for picture in picture mode (Android 8.0+)*
 - Easy media item switching in player from local videos and IPTV lists
 - Support for many video formats and streaming protocols
 - DRM support for media items in IPTV lists
@@ -32,7 +32,7 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 - Real-Time Streaming Protocol (RTSP)
 
 ## Requires:
-Android 9 or later
+Android 5.0 or later
 
 <img alt='Information about source code releasing' width='660' src='https://brunochanrio.github.io/DangoPlayer/assets/AntiFOSS_Warning.png'/>
 
