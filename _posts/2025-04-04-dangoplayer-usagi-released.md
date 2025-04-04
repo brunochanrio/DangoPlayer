@@ -1,6 +1,6 @@
 ---
 title:  "The new DangoPlayer version 6.0usagi has been finally released"
-date:   2025-04-04 12:35:00
+date:   2025-04-04 18:00:00
 categories: update
 badges:
  - type: info
@@ -12,7 +12,7 @@ badges:
 
 <img alt='DangoPlayer 6.0usagi' width='700' src='https://brunochanrio.github.io/DangoPlayer/news/img/DangoPlayerUni_AndroidTV_Banner.png'/>
 
-We are pleased to announce that the nre DangoPlayer version, 6.0usagi_patch1 has been finally released, with many changes included
+We are pleased to announce that the new DangoPlayer version, 6.0usagi has been finally released, with many changes included
 
 <!--more-->
 
@@ -29,7 +29,7 @@ The migration code that allowed migrating IPTV Lists from the obsolete DangoPlay
 ### And here is what happens if you attempt to use the migration code starting with version 6.0usagi:
 
 <video controls width="350">
-  <source src="https://brunochanrio.github.io/DangoPlayer/news/vid/VideoTimeToDangoMigrationRemovedDemo.mp4" type="video/mp4" />
+  <source src="https://brunochanrio.github.io/DangoPlayer/news/vid/VideoTimeToDangoMigrationRemovalDemo.mp4" type="video/mp4" />
   <img alt='Unsupported browser' width='450' src='https://brunochanrio.github.io/assets/HTML5VideoUnsupported.png'/>
 </video>
 
