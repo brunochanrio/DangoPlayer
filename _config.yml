@@ -1,4 +1,4 @@
-remote_theme: brunochanrio/material-jekyll-chanrio@2025.03.24
+remote_theme: brunochanrio/material-jekyll-chanrio@2025.04.04
 plugins:
 - jekyll-remote-theme
 
@@ -11,6 +11,7 @@ mobilelogo: assets/DangoPlayerUni_Icon.png
 
 baseurl: "/DangoPlayer"
 color: "#FF7FAC"
+head-theme-color: "#B74A75"
 accentColor: pink
 themeColor: pink
 fixedNav: 'true' # true or false
