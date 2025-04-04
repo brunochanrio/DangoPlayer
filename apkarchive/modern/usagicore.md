@@ -1,6 +1,6 @@
 ---
 title: Modern DangoPlayer app APK Archive (UsagiCore codebase)
-permalink: /apkarchive/modern/videotime-inherited
+permalink: /apkarchive/modern/usagicore
 ---
 # Modern DangoPlayer app APK Archive (UsagiCore codebase)
 Here is the APK Archive of the modern DangoPlayer app for Android, Android TV and Google TV, which is the current DangoPlayer app that we know today, but in the newer UsagiCore codebase that the app uses since version 6.0usagi
@@ -17,7 +17,7 @@ Here is the APK Archive of the modern DangoPlayer app for Android, Android TV an
     </thead>
     <tbody>
         <tr>
-            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_4tj_Icon.png'/></td>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_4th_Icon.png'/></td>
             <td>
                 <b>DangoPlayer</b>
                 <br>
