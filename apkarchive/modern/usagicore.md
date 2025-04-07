@@ -16,6 +16,18 @@ Here is the APK Archive of the modern DangoPlayer app for Android, Android TV an
         </tr>
     </thead>
     <tbody>
+                <tr>
+            <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_4th_Icon.png'/></td>
+            <td>
+                <b>DangoPlayer</b>
+                <br>
+                <b>Version:</b> 6.0usagi_patch1
+                <br>
+                <b>Works on:</b> Android 5.0 and later
+                <br>
+                <a href="https://archive.org/download/dangoapkarchive-modern-usagicore/DangoPlayer_6.0usagi_patch1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK_Archive.png"/></a>
+            </td>
+        </tr>
         <tr>
             <td nowrap><img alt='DangoPlayer Icon' width='64' src='https://brunochanrio.github.io/DangoPlayer/getdango/archive/DangoPlayerUni_4th_Icon.png'/></td>
             <td>
