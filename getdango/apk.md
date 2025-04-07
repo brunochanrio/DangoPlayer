@@ -5,9 +5,9 @@ permalink: /getdango/apk
 # Download DangoPlayer APK
 Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei, Amazon Fire OS, LineageOS without GApps, etc.
  
-**Latest Version:** 6.0usagi_patch1
+**Latest Version:** 6.0usagi_patch2
 
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/6.0usagi_patch1/DangoPlayer_6.0usagi_patch1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
+<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/6.0usagi_patch2/DangoPlayer_6.0usagi_patch2.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 ## What's new
 - Bug fixes and improvements in the app
