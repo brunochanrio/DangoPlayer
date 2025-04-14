@@ -1,5 +1,6 @@
 ---
 title: Screenshots
+description: View the screenshots of the DangoPlayer app
 permalink: /screenshots
 ---
 # Screenshots
