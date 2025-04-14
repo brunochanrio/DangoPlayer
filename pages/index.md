@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DangoPlayer
+description: A fast video player and IPTV client for Android and TV
 permalink: /
 ---
 # DangoPlayer 
