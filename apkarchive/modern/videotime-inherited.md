@@ -1,5 +1,6 @@
 ---
 title: Modern DangoPlayer app APK Archive (VideoTime-inherited codebase)
+description: Download old versions of the Modern DangoPlayer app based on the ñegacy VideoTime-inherited codebase (formerly known as DangoPlayer Uni) in APK
 permalink: /apkarchive/modern/videotime-inherited
 ---
 # Modern DangoPlayer app APK Archive (VideoTime-inherited codebase)
