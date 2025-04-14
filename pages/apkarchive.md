@@ -1,5 +1,6 @@
 ---
 title: DangoPlayer APK Archive
+description: Download old versions of DangoPlayer in APK
 permalink: /apkarchive
 ---
 # DangoPlayer APK Archive
