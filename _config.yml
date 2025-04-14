@@ -1,8 +1,9 @@
-remote_theme: brunochanrio/material-jekyll-chanrio@2025.04.14_R2
+remote_theme: brunochanrio/material-jekyll-chanrio@2025.04.14_v2
 plugins:
 - jekyll-remote-theme
 
 title: DangoPlayer
+description: A fast video player and IPTV client for Android and TV
 author: Bruno-chanrio
 logo: assets/DangoPlayerUni_Logo.png
 mobilelogo: assets/DangoPlayerUni_Icon.png
