@@ -1,5 +1,6 @@
 ---
 title: Obsolete DangoPlayer app APK Archive
+description: Download old versions of the Obsolete DangoPlayer app (formerly known as VideoTime and TubiLeap) in APK
 permalink: /apkarchive/obsolete
 ---
 # Obsolete DangoPlayer app APK Archive
