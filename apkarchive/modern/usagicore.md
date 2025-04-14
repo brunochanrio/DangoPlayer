@@ -1,5 +1,6 @@
 ---
 title: Modern DangoPlayer app APK Archive (UsagiCore codebase)
+description: Download old versions of the Modern DangoPlayer app based on the newer UsagiCore codebase in APK
 permalink: /apkarchive/modern/usagicore
 ---
 # Modern DangoPlayer app APK Archive (UsagiCore codebase)
