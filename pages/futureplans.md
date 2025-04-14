@@ -1,5 +1,6 @@
 ---
 title: Future plans for DangoPlayer
+description: Check the future plans for DangoPlayer 
 permalink: /futureplans
 ---
 # Future plans for DangoPlayer
