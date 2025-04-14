@@ -1,5 +1,6 @@
 ---
 title: Obsolete DangoPlayer TV app APK Archive
+description: Download old versions of the Obsolete DangoPlayer TV app in APK
 permalink: /apkarchive/obsoletetv
 ---
 # Obsolete DangoPlayer TV app APK Archive
