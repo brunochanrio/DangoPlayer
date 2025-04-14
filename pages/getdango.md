@@ -1,5 +1,6 @@
 ---
 title: Download DangoPlayer 
+description: Download the latest version of DangoPlayer from the Google Play Store or from APK
 permalink: /getdango
 ---
 # Download DangoPlayer
