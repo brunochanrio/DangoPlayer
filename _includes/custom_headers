@@ -1,1 +1,10 @@
 <meta name="google-site-verification" content="lfi2ycWwEYD71_ATSD7qXdN6h4r7cufc0nMY7X7RUMw" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JCSV2EFFQB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JCSV2EFFQB');
+</script>
