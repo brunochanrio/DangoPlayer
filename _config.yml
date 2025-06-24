@@ -13,8 +13,8 @@ keywords: "DangoPlayer, Dango Player, IPTV Client, Video Player, IPTV Client for
 
 
 baseurl: "/DangoPlayer"
-color: "#FF7FAC"
-head-theme-color: "#B74A75"
+color: "#8CDEAD"
+head-theme-color: "#A1008F"
 accentColor: pink
 themeColor: pink
 fixedNav: 'true' # true or false
