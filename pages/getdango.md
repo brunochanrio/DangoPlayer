@@ -21,12 +21,3 @@ However, this is the most complicated way to install DangoPlayer, because requir
 Click on the next button to download DangoPlayer APK:
 
 <a href="https://brunochanrio.github.io/DangoPlayer/getdango/apk"><img alt="Download DangoPlayer APK for Android-based devices" height="110" src="https://brunochanrio.github.io/DangoPlayer/assets/GetAndroidAPK.png"/></a>
-
-## DangoPlayer APK Archive 
-The DangoPlayer APK Archive is a archive that we built for archiving older versions of DangoPlayer, including the modern DangoPlayer app (formerly known as DangoPlayer Uni) and the obsolete DangoPlayer and DangoPlayer TV apps (formerly known as VideoTime and TubiLeap), as we ensure that these older versions would not be lost
-
-However, these older versions of the modern DangoPlayer app (formerly DangoPlayer Uni), as well as all the versions of the obsolete DangoPlayer and DangoPlayer TV apps (formerly VideoTime and TubiLeap) are only available for archival purposes, so if you want to use DangoPlayer as your daily-use Video Player and IPTV Client, we recommend you to download the latest version of DangoPlayer from the links available on the top of this page
-
-Click on the next button to visit the DangoPlayer APK Archive:
-
-<a href="https://brunochanrio.github.io/DangoPlayer/apkarchive"><img alt="Visit the DangoPlayer APK Archive" height="110" src="https://brunochanrio.github.io/DangoPlayer/assets/VisitAPKArchive.png"/></a>
