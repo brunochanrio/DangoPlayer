@@ -8,7 +8,6 @@ badges:
  - type: success
    tag: backport
 ---
-# The new DangoPlayer version 6.0usagi has been finally released
 
 <img alt='DangoPlayer 6.0usagi' width='700' src='https://brunochanrio.github.io/DangoPlayer/news/img/DangoPlayerUni_AndroidTV_Banner.png'/>
 
