@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,MPEG-DASH HD Test - Widevine DRM (cenc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd
+#EXTINF:-1,MPEG-DASH HD Test - Widevine DRM (cbcs)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test
+https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs.mpd
+#EXTINF:-1,MPEG-DASH UHD Test - Widevine DRM (cenc)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test
+https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears_uhd.mpd
+#EXTINF:-1,MPEG-DASH UHD Test - Widevine DRM (cbcs)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://proxy.uat.widevine.com/proxy?video_id=2015_tears&provider=widevine_test
+https://storage.googleapis.com/wvmedia/cbcs/h264/tears/tears_aes_cbcs_uhd.mpd
+#EXTINF:-1,IIS Smooth Streaming Test - PlayReady DRM
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
+#KODIPROP:inputstream.adaptive.license_key=https://playready.directtaps.net/pr/svc/rightsmanager.asmx
+https://playready.directtaps.net/smoothstreaming/SSWSS720H264PR/SuperSpeedway_720.ism/Manifest
