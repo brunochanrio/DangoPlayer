@@ -5,9 +5,9 @@ permalink: /getdango/apk
 # Download DangoPlayer APK
 Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei, Amazon Fire OS, LineageOS without GApps, etc.
  
-**Latest Version:** 26.2elio_sr2
+**Latest Version:** 26.2.1elio_sr2a
 
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/26.2elio_sr2/DangoPlayer_26.2elio_sr2.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
+<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/26.2.1elio_sr2a/DangoPlayer_26.2.1elio_sr2a.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 ## What's new
 - Added support for PlayReady DRM on Android TV/Google TV
