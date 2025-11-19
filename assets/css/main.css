@@ -192,13 +192,13 @@ body, input {
     color: rgba(0, 0, 0, .87);
     -webkit-font-feature-settings: "kern", "liga";
     font-feature-settings: "kern", "liga";
-    font-family: "Roboto", Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: "Google Sans Flex", "Roboto", Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 code, kbd, pre {
     color: rgba(0, 0, 0, .87);
     -webkit-font-feature-settings: "kern";
     font-feature-settings: "kern";
-    font-family: "Roboto Mono", Courier New, Courier, monospace;
+    font-family: "Google Sans Code", "Roboto Mono", Courier New, Courier, monospace;
 }
 .md-typeset {
     font-size: 1.6rem;
