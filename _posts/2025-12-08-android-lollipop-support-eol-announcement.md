@@ -28,3 +28,5 @@ Also, Google ended support for Google Play Services on Android 5.x Lollipop on J
 The next update of DangoPlayer would be DangoPlayer 26.4 "Elio" Servicing Release 4, which is expected to update AndroidX Media3 to version <a href="https://github.com/androidx/media/releases/tag/1.9.0-rc01">1.9.0-rc01</a>, consequently dropping support for Android 5.x Lollipop, this makes DangoPlayer 26 "Elio" the last major version of DangoPlayer to support Android 5.x Lollipop (until 26.3 SR3 update)
 
 The next major version of DangoPlayer would be DangoPlayer 27 "Unimarutchi", which is planned to be released on July 7, 2026, coinciding with the 3rd anniversary of the modern DangoPlayer app (initially known as DangoPlayer Uni), which was released on July 7, 2023
+
+The way DangoPlayer users on Android 5.x Lollipop devices will be affected is that they will no longer receive new DangoPlayer updates beyond 26.3 "Elio" Servicing Release 3
