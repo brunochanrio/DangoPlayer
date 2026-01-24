@@ -217,8 +217,8 @@ code, kbd, pre {
 .md-typeset h1, .md-typeset h2 {
     font-weight: 500;
     letter-spacing: -.01em;
-    font-family: "Google Sans Flex", Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-variation-settings:
+    font-family: "Google Sans Flex", "Roboto", Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-variation-settings: 
         "ROND" 100;
 }
 .md-typeset h2 {
