@@ -215,9 +215,11 @@ code, kbd, pre {
     line-height: 1.3;
 }
 .md-typeset h1, .md-typeset h2 {
-    font-weight: 400;
+    font-weight: 500;
     letter-spacing: -.01em;
-    font-family: "Cherry Bomb One", Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: "Google Sans Flex", Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-variation-settings:
+        "ROND" 100;
 }
 .md-typeset h2 {
     margin: 4rem 0 1.6rem;
