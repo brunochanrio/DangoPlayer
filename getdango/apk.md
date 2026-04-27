@@ -7,6 +7,8 @@ Download the latest APK of DangoPlayer for any Android device with Google servic
  
 **Latest Version:** DangoPlayer 26.5.1 "Elio" Servicing Release 5, Rev. 1
 
+<img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="320" alt="Application verified by its developer">
+
 <a href="https://github.com/brunochanrio/DangoPlayer/releases/download/elio_sr5_r1/DangoPlayer_26.5.1elio_sr5_r1.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 ## What's new
