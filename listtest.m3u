@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Normal Test 
+https://brunochanrio.github.io/DangoPlayer/samples/wmvhd_aac_test.mp4
+#EXTINF:-1,YouTube Test 1
+https://youtu.be/h2oHt0NnwS8?si=sUeFQfWb7hy38hTz
+#EXTINF:-1,YouTube Test 2
+https://m.youtube.com/watch?si=sUeFQfWb7hy38hTz&v=h2oHt0NnwS8&feature=youtu.be
+#EXTINF:-1,YouTube Test 3
+https://www.youtube.com/watch?si=sUeFQfWb7hy38hTz&v=h2oHt0NnwS8&feature=youtu.be
+#EXTINF:-1,YouTube Test 4
+https://youtube.com/watch?si=sUeFQfWb7hy38hTz&v=h2oHt0NnwS8&feature=youtu.be
+#EXTINF:-1,MMS Test
+mms://example.com
+#EXTINF:-1,SRT Test
+srt://example.com
+#EXTINF:-1,RTMP Test
+rtmp://example.com
