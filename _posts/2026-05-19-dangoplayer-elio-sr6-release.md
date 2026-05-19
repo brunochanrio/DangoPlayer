@@ -1,6 +1,6 @@
 ---
 title:  'DangoPlayer 26.6.0 "Elio" Servicing Release 6 has been released'
-date:   2026-05-19 15:13:00
+date:   2026-05-19 15:16:00
 categories: important
 socialcover: news/img/DangoPlayerUni_AndroidTV_Banner.jpg
 badges:
@@ -11,7 +11,7 @@ badges:
    
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/news/img/DangoPlayerUni_AndroidTV_Banner.jpg"/>
+<img src="{{ site.url }}{{ site.baseurl }}/news/img/DangoPlayerUni_AndroidTV_Banner.png"/>
 
 We are pleased to announce that DangoPlayer 26.6.0 "Elio" Servicing Release 6 has been released, and it's now available to download either from Google Play Store or from APK
 
