@@ -1,6 +1,6 @@
 ---
 title:  'DangoPlayer 26.6.0 "Elio" Servicing Release 6 has been released'
-date:   2026-05-19 15:16:00
+date:   2026-05-19 18:22:00
 categories: important
 socialcover: news/img/DangoPlayerUni_AndroidTV_Banner.jpg
 badges:
@@ -30,20 +30,20 @@ To see the difference, here are the comparison on how the app looked before, and
 ### IPTV List interface before (left) and after (right):
 <img width="300" alt="Before" src="https://github.com/user-attachments/assets/0462861d-c3ea-4a28-826c-0301d607f501" /> <img width="300" alt="After" src="https://github.com/user-attachments/assets/23863416-70ee-4975-8d81-b3024c7b1de0" />
 ### Player interface before (top) and after (bottom):
-<img height="270" alt="Before" src="https://github.com/user-attachments/assets/109c3988-87d2-41b9-9745-e380f0eb49bd" /> 
+<img width="604" alt="Before" src="https://github.com/user-attachments/assets/109c3988-87d2-41b9-9745-e380f0eb49bd" /> 
  
-<img height="270" alt="After" src="https://github.com/user-attachments/assets/b52a3b3e-40b7-448f-a214-481c0dfdb9af" />
+<img width='604' alt="After" src="https://github.com/user-attachments/assets/b52a3b3e-40b7-448f-a214-481c0dfdb9af" />
 
-You notices some difference? probably not, but there's one difference, the iconography, which changed from the original Material Design style to the newer Material 3 Expressive style
+You noticed some difference? probably not, but there's one difference, the iconography, which changed from the original Material Design style to the newer Material 3 Expressive style
 
 ## New branding identity
 Also, another notable change is the branding identity, which changed to the original DangoPlayer Uni color scheme from 2023, using the gradient scheme from 2024, here is a comparison between the previous branding identity (top), the 2024 branding identity (middle) and the new branding identity (bottom):
 
-<img width="512" height="250" alt="HiRes_GooglePlayStore_Banner" src="https://github.com/user-attachments/assets/f74f64f6-67d4-4724-9cf9-89232945dbc2" /> 
+<img width="512" alt="Previous branding identity" src="https://github.com/user-attachments/assets/f74f64f6-67d4-4724-9cf9-89232945dbc2" /> 
  
-<img width="512" height="250" alt="image" src="https://github.com/user-attachments/assets/2ee4f0e2-e8a9-44e2-9f0c-a2ad4a866b7a" /> 
+<img width="512" alt="2024 branding identity" src="https://github.com/user-attachments/assets/2ee4f0e2-e8a9-44e2-9f0c-a2ad4a866b7a" /> 
  
-<img width="512" height="250" alt="image" src="https://github.com/user-attachments/assets/b1f6a2b5-8e6d-4148-a148-3467dabbd8c4" />
+<img width="512" alt="New branding identity" src="https://github.com/user-attachments/assets/b1f6a2b5-8e6d-4148-a148-3467dabbd8c4" />
 
 ## Download
 
