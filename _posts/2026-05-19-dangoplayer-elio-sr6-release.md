@@ -13,9 +13,9 @@ badges:
 
 <img src="{{ site.url }}{{ site.baseurl }}/news/img/DangoPlayerUni_AndroidTV_Banner.png"/>
 
-<!--more-->
-
 We are pleased to announce that DangoPlayer 26.6.0 "Elio" Servicing Release 6 has been released, and it's now available to download either from Google Play Store or from APK
+
+<!--more-->
 
 ## More Material 3 Expressive in the UI
 One of the main changes of this new version of DangoPlayer, is that the UI now reflects more the Google's new design language, [Material 3 Expressive](https://m3.material.io/blog/building-with-m3-expressive)
