@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop H264 (Apple HLS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop HEVC (Apple HLS)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/DASHIF.png" group-title="MPEG-DASH",DASH-IF Live (MPEG-DASH)
+https://livesim.dashif.org/livesim/testpic_2s/Manifest.mpd
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="Apple HLS",Unified Streaming Live reference stream (Apple HLS)
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="MPEG-DASH",Unified Streaming Live reference stream (MPEG-DASH)
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://brunochanrio.github.io/DangoPlayer/samples/img/UnifiedStreaming.png" group-title="Microsoft IIS Smooth Streaming",Unified Streaming Live reference stream (MS IIS Smooth Streaming)
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/Manifest
