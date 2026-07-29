@@ -5,18 +5,16 @@ permalink: /getdango/apk
 # Download DangoPlayer APK
 Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei (EMUI and HarmonyOS 1.x-4.x), Amazon Fire OS, LineageOS without GApps, etc.
  
-**Latest Version:** DangoPlayer 27.0.0 "Unimarutchi"
+**Latest Version:** DangoPlayer {% include dangoplayer_version %} {% include dangoplayer_version_name %}
 
 <img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="320" alt="Application verified by its developer">
 
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/unimarutchi/DangoPlayer_27.0.0unimarutchi.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
+<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/{% include dangoplayer_version_codename %}/DangoPlayer_{% include dangoplayer_version %}{% include dangoplayer_version_codename %}.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 ## What's new
-- Updated to Android 17 SDK
-- Bug fixes and improvements in the app
-
+{% include whatsnew %}
 ## Requires:
-Android 6.0 or later
+Android {% include min_android_version %} or later
 
 {% include alert.html type="danger" title="Notes for Android 5.x Lollipop users" content="DangoPlayer is no longer supported on devices running Android 5.x Lollipop <br><br> <a href='https://brunochanrio.github.io/DangoPlayer/2025/android-lollipop-support-eol-announcement/'>More info about removal of DangoPlayer support for Android 5.x Lollipop...</a>" %}
  
