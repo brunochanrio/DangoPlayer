@@ -17,7 +17,6 @@ permalink: /getdango/apk/aftvdownloader
             font-family: "Google Sans Flex", Arial, Helvetica, sans-serif;
             margin: 0;
             padding: 0;
-            text-align: center;
         }
 
         h1 {
@@ -48,7 +47,55 @@ permalink: /getdango/apk/aftvdownloader
             width: 95%;
             margin: 20px auto;
         }
+        
+        .item-button {
+            display: inline-block;
+            background-color: #006445;
+            border: 0px solid #006445;
+            border-radius: 30px;
+            width: 170px;
+            margin: 10px 10px;
+            vertical-align: top;
+            text-align: center;
+            display: inline-block;
+        }
 
+        .item-button a {
+            text-decoration: none;
+            color: #8DDEB7;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            display: block;
+            outline: none;
+        }
+
+        .item-button img {
+            width: 160px;
+            height: 160px;
+            border: 0px solid transparent;
+            border-radius: 39px;
+            margin-bottom: 8px;
+        }
+        
+        .item-button hover {
+            color: #006445;
+            border-radius: 30px;
+            border-color: #8DDEB7;
+            background-color: #8DDEB7;
+        }
+
+        .item-button a:hover {
+            color: #006445;
+            border-radius: 30px;
+            border-color: #8DDEB7;
+            background-color: #8DDEB7;
+        }
+
+        .item-button span {
+            display: block;
+            font-size: 14px;
+            font-weight: bold;
+        }
         
     </style>
 </head>
@@ -56,6 +103,8 @@ permalink: /getdango/apk/aftvdownloader
 <body>
 
     <div class="container">
+        <br />
+        <br />
         <h1>Download DangoPlayer APK</h1>
         <div>
             <p>Download the latest APK of DangoPlayer for any Android device with Google services, or without Google services, like Huawei (EMUI and HarmonyOS 1.x-4.x), Amazon Fire OS, LineageOS without GApps, etc.</p>
@@ -64,7 +113,9 @@ permalink: /getdango/apk/aftvdownloader
             </p>
             <img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="320" alt="Application verified by its developer">
             <br />
-            <a href="https://github.com/brunochanrio/DangoPlayer/releases/download/{% include dangoplayer_version_codename %}/DangoPlayer_{% include dangoplayer_version %}{% include dangoplayer_version_codename %}.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
+            <div class="item-button" >
+                <a href="https://github.com/brunochanrio/DangoPlayer/releases/download/{% include dangoplayer_version_codename %}/DangoPlayer_{% include dangoplayer_version %}{% include dangoplayer_version_codename %}.apk">Download APK</a>
+            </div>
             <br />
             <h2>What's new</h2>
             <p>{% include whatsnew %}</p>
