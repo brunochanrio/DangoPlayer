@@ -9,7 +9,7 @@ Download the latest APK of DangoPlayer for any Android device with Google servic
 
 <img src="https://raw.githubusercontent.com/brunochanrio/android-developer-verification-badges/main/android_verified_app.png" width="320" alt="Application verified by its developer">
 
-<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/{% include dangoplayer_version_codename %}/DangoPlayer_{% include dangoplayer_version %}{% include dangoplayer_version_codename %}.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
+<a href="https://github.com/brunochanrio/DangoPlayer/releases/download/unimarutchi_sr2/DangoPlayer_27.2.0unimarutchi_sr2.apk"><img alt="Download APK -->" height="55" src="https://brunochanrio.github.io/DangoPlayer/assets/DownloadAPK.png"/></a>
  
 ## What's new
 {% include whatsnew %}
