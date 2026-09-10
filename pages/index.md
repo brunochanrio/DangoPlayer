@@ -38,6 +38,3 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 - MPEG-DASH
 - Microsoft IIS Smooth Streaming
 - Real-Time Streaming Protocol (RTSP)
-
-## Requires:
-Android 6.0 or later
