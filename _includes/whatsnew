@@ -1,2 +1,3 @@
+- Dropped support for Android 6.0 Marshmallow<br />
 - Added enhancements for desktop environments (eg. Android Desktop mode, Samsung DeX, Chromebook, Googlebook, etc.)<br />
 - Bug fixes and improvements in the app
