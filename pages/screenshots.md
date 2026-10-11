@@ -10,5 +10,8 @@ permalink: /screenshots
 ## Tablet
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TabletSS3.png'/>
 
+## Desktop
+<img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/DesktopSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/DesktopSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/DesktopSS3.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/DesktopSS4.png'/>
+
 ## Television
 <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS1.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS2.png'/> <img width='604' src='https://brunochanrio.github.io/DangoPlayer/assets/TVSS3.png'/>
